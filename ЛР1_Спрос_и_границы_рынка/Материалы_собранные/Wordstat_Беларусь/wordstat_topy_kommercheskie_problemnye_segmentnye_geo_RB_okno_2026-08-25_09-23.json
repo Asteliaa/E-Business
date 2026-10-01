@@ -1,0 +1,231 @@
+{
+ "source": "wordstat.yandex.ru, вкладка Топы запросов (API getTable), регион Беларусь (149), все устройства, период 25.08.2026-23.09.2026, дата снятия 2026-09-30",
+ "note": "0 = Вордстат не показывает запросов по формулировке (данных нет)",
+ "queries": [
+  {
+   "query": "uml онлайн бесплатно",
+   "total": 0,
+   "rows": null
+  },
+  {
+   "query": "bpmn редактор цена",
+   "total": 0,
+   "rows": null
+  },
+  {
+   "query": "uml программа купить",
+   "total": 0,
+   "rows": null
+  },
+  {
+   "query": "нейросеть для диаграмм цена",
+   "total": 0,
+   "rows": null
+  },
+  {
+   "query": "visual paradigm цена",
+   "total": 0,
+   "rows": null
+  },
+  {
+   "query": "как нарисовать uml диаграмму",
+   "total": 0,
+   "rows": null
+  },
+  {
+   "query": "как построить bpmn диаграмму",
+   "total": 0,
+   "rows": null
+  },
+  {
+   "query": "ошибки в диаграмме uml",
+   "total": 0,
+   "rows": null
+  },
+  {
+   "query": "как сделать диаграмму для курсовой",
+   "total": 0,
+   "rows": null
+  },
+  {
+   "query": "uml для студентов",
+   "total": 0,
+   "rows": null
+  },
+  {
+   "query": "bpmn для аналитика",
+   "total": 0,
+   "rows": null
+  },
+  {
+   "query": "uml для архитектора",
+   "total": 0,
+   "rows": null
+  },
+  {
+   "query": "uml минск",
+   "total": 3,
+   "rows": "без строк в списке (Вордстат показывает итог 3, список пуст)"
+  },
+  {
+   "query": "bpmn минск",
+   "total": 4,
+   "rows": "без строк в списке (итог 4, список пуст)"
+  },
+  {
+   "query": "курсы uml минск",
+   "total": 0,
+   "rows": null
+  },
+  {
+   "query": "uml курс",
+   "total": 0,
+   "rows": null
+  },
+  {
+   "query": "bpmn обучение",
+   "total": 0,
+   "rows": null
+  },
+  {
+   "query": "creately",
+   "total": 4,
+   "rows": "creately 4; creately онлайн 1"
+  },
+  {
+   "query": "uml курсы",
+   "total": 0,
+   "rows": null
+  },
+  {
+   "query": "курсы uml",
+   "total": 0,
+   "rows": null
+  },
+  {
+   "query": "uml обучение",
+   "total": 0,
+   "rows": null
+  },
+  {
+   "query": "bpmn курсы",
+   "total": 16,
+   "rows": "bpmn курсы 16; курсы по bpmn 2.0 3; курсы bpmn 2.0 с сертификатом 1"
+  },
+  {
+   "query": "цена uml",
+   "total": 0,
+   "rows": null
+  },
+  {
+   "query": "uml цена",
+   "total": 0,
+   "rows": null
+  },
+  {
+   "query": "bpmn цена",
+   "total": 0,
+   "rows": null
+  },
+  {
+   "query": "uml купить",
+   "total": 5,
+   "rows": "uml купить 5"
+  },
+  {
+   "query": "bpmn купить",
+   "total": 0,
+   "rows": null
+  },
+  {
+   "query": "uml бесплатно",
+   "total": 3,
+   "rows": "uml бесплатные 3"
+  },
+  {
+   "query": "bpmn бесплатно",
+   "total": 15,
+   "rows": "бесплатный bpmn 15; нотация bpmn бесплатно 5; bpmn 2.0 бесплатно 3; bpmn онлайн бесплатно 2"
+  },
+  {
+   "query": "visio цена",
+   "total": 0,
+   "rows": null
+  },
+  {
+   "query": "miro цена",
+   "total": 1,
+   "rows": "miro цены 1"
+  },
+  {
+   "query": "uml редактор",
+   "total": 3,
+   "rows": "uml онлайн редактор 3; uml редактор 3; редактор uml диаграмм онлайн 2"
+  },
+  {
+   "query": "bpmn редактор",
+   "total": 1,
+   "rows": "bpmn онлайн редактор 1; bpmn редактор 1"
+  },
+  {
+   "query": "uml программа",
+   "total": 4,
+   "rows": "программы для uml 4"
+  },
+  {
+   "query": "uml скачать",
+   "total": 3,
+   "rows": "uml скачать 3; plant uml скачать 1; star uml скачать 1"
+  },
+  {
+   "query": "uml курсовая",
+   "total": 0,
+   "rows": null
+  },
+  {
+   "query": "bpmn курсовая",
+   "total": 1,
+   "rows": "итог 1, список пуст"
+  },
+  {
+   "query": "uml лабораторная",
+   "total": 51,
+   "rows": "итог 51; в списке одна строка: лабораторные работы java uml case рб 12 (итог включает словоформы, строки списка не раскрывают его полностью)"
+  },
+  {
+   "query": "диаграмма для курсовой",
+   "total": 1,
+   "rows": "диаграмма для курсовой 1"
+  },
+  {
+   "query": "курсовая uml диаграммы",
+   "total": 0,
+   "rows": null
+  },
+  {
+   "query": "как нарисовать uml",
+   "total": 0,
+   "rows": null
+  },
+  {
+   "query": "как построить bpmn",
+   "total": 0,
+   "rows": null
+  },
+  {
+   "query": "uml диаграмма студент",
+   "total": 0,
+   "rows": null
+  },
+  {
+   "query": "uml онлайн",
+   "total": 28,
+   "rows": "uml онлайн 28; uml диаграммы онлайн 11; plant uml онлайн 8; uml онлайн редактор 3; uml классов онлайн 2"
+  },
+  {
+   "query": "diagram as code",
+   "total": 0,
+   "rows": null
+  }
+ ]
+}

@@ -1,0 +1,851 @@
+{
+ "source": "Google Trends",
+ "geo": "BY",
+ "period": "today 12-m (2025-09-30 .. 2026-09-30), недели 28.09.2025 .. 03.10.2026",
+ "category": 0,
+ "search_type": "web",
+ "date_retrieved": "2026-09-30",
+ "method": "/trends/api/explore -> /trends/api/widgetdata/multiline, /comparedgeo (resolution REGION и CITY); /trends/api/explore/pickers/geo",
+ "purpose": "Контрольная повторная выгрузка: состав субрегионов Беларуси в Google Trends (выделяется ли г. Минск) и воспроизводимость значений по сравнению с выгрузками 29-30.09.2026",
+ "geo_picker_BY_children": [
+  "Брестская область (BR)",
+  "Витебская область (VI)",
+  "Гомельская область (HO)",
+  "Гродненская область (HR)",
+  "Минская область (MI)",
+  "Могилёвская область (MA)"
+ ],
+ "UML": {
+  "regions_REGION": [
+   {
+    "geoCode": "BY-MI",
+    "geoName": "Минская область",
+    "v": 100
+   },
+   {
+    "geoCode": "BY-HO",
+    "geoName": "Гомельская область",
+    "v": 76
+   },
+   {
+    "geoCode": "BY-VI",
+    "geoName": "Витебская область",
+    "v": 72
+   },
+   {
+    "geoCode": "BY-MA",
+    "geoName": "Могилёвская область",
+    "v": 57
+   },
+   {
+    "geoCode": "BY-BR",
+    "geoName": "Брестская область",
+    "v": 55
+   },
+   {
+    "geoCode": "BY-HR",
+    "geoName": "Гродненская область",
+    "v": 38
+   }
+  ],
+  "regions_CITY": {
+   "cities_total": 63,
+   "cities_with_data": 0,
+   "minsk": {
+    "geoName": "Минск",
+    "v": 0,
+    "hasData": false
+   }
+  },
+  "timelineData": [
+   {
+    "t": "1759017600",
+    "week_start": "2025-09-28",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1759622400",
+    "week_start": "2025-10-05",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1760227200",
+    "week_start": "2025-10-12",
+    "v": 58,
+    "hasData": true,
+    "isPartial": false
+   },
+   {
+    "t": "1760832000",
+    "week_start": "2025-10-19",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1761436800",
+    "week_start": "2025-10-26",
+    "v": 53,
+    "hasData": true,
+    "isPartial": false
+   },
+   {
+    "t": "1762041600",
+    "week_start": "2025-11-02",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1762646400",
+    "week_start": "2025-11-09",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1763251200",
+    "week_start": "2025-11-16",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1763856000",
+    "week_start": "2025-11-23",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1764460800",
+    "week_start": "2025-11-30",
+    "v": 92,
+    "hasData": true,
+    "isPartial": false
+   },
+   {
+    "t": "1765065600",
+    "week_start": "2025-12-07",
+    "v": 100,
+    "hasData": true,
+    "isPartial": false
+   },
+   {
+    "t": "1765670400",
+    "week_start": "2025-12-14",
+    "v": 100,
+    "hasData": true,
+    "isPartial": false
+   },
+   {
+    "t": "1766275200",
+    "week_start": "2025-12-21",
+    "v": 69,
+    "hasData": true,
+    "isPartial": false
+   },
+   {
+    "t": "1766880000",
+    "week_start": "2025-12-28",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1767484800",
+    "week_start": "2026-01-04",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1768089600",
+    "week_start": "2026-01-11",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1768694400",
+    "week_start": "2026-01-18",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1769299200",
+    "week_start": "2026-01-25",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1769904000",
+    "week_start": "2026-02-01",
+    "v": 59,
+    "hasData": true,
+    "isPartial": false
+   },
+   {
+    "t": "1770508800",
+    "week_start": "2026-02-08",
+    "v": 49,
+    "hasData": true,
+    "isPartial": false
+   },
+   {
+    "t": "1771113600",
+    "week_start": "2026-02-15",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1771718400",
+    "week_start": "2026-02-22",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1772323200",
+    "week_start": "2026-03-01",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1772928000",
+    "week_start": "2026-03-08",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1773532800",
+    "week_start": "2026-03-15",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1774137600",
+    "week_start": "2026-03-22",
+    "v": 58,
+    "hasData": true,
+    "isPartial": false
+   },
+   {
+    "t": "1774742400",
+    "week_start": "2026-03-29",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1775347200",
+    "week_start": "2026-04-05",
+    "v": 75,
+    "hasData": true,
+    "isPartial": false
+   },
+   {
+    "t": "1775952000",
+    "week_start": "2026-04-12",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1776556800",
+    "week_start": "2026-04-19",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1777161600",
+    "week_start": "2026-04-26",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1777766400",
+    "week_start": "2026-05-03",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1778371200",
+    "week_start": "2026-05-10",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1778976000",
+    "week_start": "2026-05-17",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1779580800",
+    "week_start": "2026-05-24",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1780185600",
+    "week_start": "2026-05-31",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1780790400",
+    "week_start": "2026-06-07",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1781395200",
+    "week_start": "2026-06-14",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1782000000",
+    "week_start": "2026-06-21",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1782604800",
+    "week_start": "2026-06-28",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1783209600",
+    "week_start": "2026-07-05",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1783814400",
+    "week_start": "2026-07-12",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1784419200",
+    "week_start": "2026-07-19",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1785024000",
+    "week_start": "2026-07-26",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1785628800",
+    "week_start": "2026-08-02",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1786233600",
+    "week_start": "2026-08-09",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1786838400",
+    "week_start": "2026-08-16",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1787443200",
+    "week_start": "2026-08-23",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1788048000",
+    "week_start": "2026-08-30",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1788652800",
+    "week_start": "2026-09-06",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1789257600",
+    "week_start": "2026-09-13",
+    "v": 13,
+    "hasData": true,
+    "isPartial": false
+   },
+   {
+    "t": "1789862400",
+    "week_start": "2026-09-20",
+    "v": 25,
+    "hasData": true,
+    "isPartial": false
+   },
+   {
+    "t": "1790467200",
+    "week_start": "2026-09-27",
+    "v": 22,
+    "hasData": true,
+    "isPartial": true
+   }
+  ]
+ },
+ "BPMN": {
+  "regions_REGION": [
+   {
+    "geoCode": "BY-HR",
+    "geoName": "Гродненская область",
+    "v": 100
+   },
+   {
+    "geoCode": "BY-MI",
+    "geoName": "Минская область",
+    "v": 78
+   },
+   {
+    "geoCode": "BY-HO",
+    "geoName": "Гомельская область",
+    "v": 52
+   },
+   {
+    "geoCode": "BY-MA",
+    "geoName": "Могилёвская область",
+    "v": 41
+   },
+   {
+    "geoCode": "BY-BR",
+    "geoName": "Брестская область",
+    "v": 38
+   },
+   {
+    "geoCode": "BY-VI",
+    "geoName": "Витебская область",
+    "v": 36
+   }
+  ],
+  "timelineData": [
+   {
+    "t": "1759017600",
+    "week_start": "2025-09-28",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1759622400",
+    "week_start": "2025-10-05",
+    "v": 86,
+    "hasData": true,
+    "isPartial": false
+   },
+   {
+    "t": "1760227200",
+    "week_start": "2025-10-12",
+    "v": 63,
+    "hasData": true,
+    "isPartial": false
+   },
+   {
+    "t": "1760832000",
+    "week_start": "2025-10-19",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1761436800",
+    "week_start": "2025-10-26",
+    "v": 87,
+    "hasData": true,
+    "isPartial": false
+   },
+   {
+    "t": "1762041600",
+    "week_start": "2025-11-02",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1762646400",
+    "week_start": "2025-11-09",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1763251200",
+    "week_start": "2025-11-16",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1763856000",
+    "week_start": "2025-11-23",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1764460800",
+    "week_start": "2025-11-30",
+    "v": 100,
+    "hasData": true,
+    "isPartial": false
+   },
+   {
+    "t": "1765065600",
+    "week_start": "2025-12-07",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1765670400",
+    "week_start": "2025-12-14",
+    "v": 63,
+    "hasData": true,
+    "isPartial": false
+   },
+   {
+    "t": "1766275200",
+    "week_start": "2025-12-21",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1766880000",
+    "week_start": "2025-12-28",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1767484800",
+    "week_start": "2026-01-04",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1768089600",
+    "week_start": "2026-01-11",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1768694400",
+    "week_start": "2026-01-18",
+    "v": 69,
+    "hasData": true,
+    "isPartial": false
+   },
+   {
+    "t": "1769299200",
+    "week_start": "2026-01-25",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1769904000",
+    "week_start": "2026-02-01",
+    "v": 66,
+    "hasData": true,
+    "isPartial": false
+   },
+   {
+    "t": "1770508800",
+    "week_start": "2026-02-08",
+    "v": 66,
+    "hasData": true,
+    "isPartial": false
+   },
+   {
+    "t": "1771113600",
+    "week_start": "2026-02-15",
+    "v": 57,
+    "hasData": true,
+    "isPartial": false
+   },
+   {
+    "t": "1771718400",
+    "week_start": "2026-02-22",
+    "v": 66,
+    "hasData": true,
+    "isPartial": false
+   },
+   {
+    "t": "1772323200",
+    "week_start": "2026-03-01",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1772928000",
+    "week_start": "2026-03-08",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1773532800",
+    "week_start": "2026-03-15",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1774137600",
+    "week_start": "2026-03-22",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1774742400",
+    "week_start": "2026-03-29",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1775347200",
+    "week_start": "2026-04-05",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1775952000",
+    "week_start": "2026-04-12",
+    "v": 66,
+    "hasData": true,
+    "isPartial": false
+   },
+   {
+    "t": "1776556800",
+    "week_start": "2026-04-19",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1777161600",
+    "week_start": "2026-04-26",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1777766400",
+    "week_start": "2026-05-03",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1778371200",
+    "week_start": "2026-05-10",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1778976000",
+    "week_start": "2026-05-17",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1779580800",
+    "week_start": "2026-05-24",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1780185600",
+    "week_start": "2026-05-31",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1780790400",
+    "week_start": "2026-06-07",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1781395200",
+    "week_start": "2026-06-14",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1782000000",
+    "week_start": "2026-06-21",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1782604800",
+    "week_start": "2026-06-28",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1783209600",
+    "week_start": "2026-07-05",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1783814400",
+    "week_start": "2026-07-12",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1784419200",
+    "week_start": "2026-07-19",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1785024000",
+    "week_start": "2026-07-26",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1785628800",
+    "week_start": "2026-08-02",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1786233600",
+    "week_start": "2026-08-09",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1786838400",
+    "week_start": "2026-08-16",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1787443200",
+    "week_start": "2026-08-23",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1788048000",
+    "week_start": "2026-08-30",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1788652800",
+    "week_start": "2026-09-06",
+    "v": 0,
+    "hasData": false,
+    "isPartial": false
+   },
+   {
+    "t": "1789257600",
+    "week_start": "2026-09-13",
+    "v": 18,
+    "hasData": true,
+    "isPartial": false
+   },
+   {
+    "t": "1789862400",
+    "week_start": "2026-09-20",
+    "v": 27,
+    "hasData": true,
+    "isPartial": false
+   },
+   {
+    "t": "1790467200",
+    "week_start": "2026-09-27",
+    "v": 9,
+    "hasData": true,
+    "isPartial": true
+   }
+  ],
+  "regions_CITY": {
+   "cities_total": 47,
+   "cities_with_data": 0,
+   "minsk": {
+    "geoName": "Минск",
+    "v": 0,
+    "hasData": false
+   }
+  }
+ },
+ "note": "Все 53 недели записаны полностью (v=0 и hasData=false — недостаточно данных). Последняя неделя 27.09-03.10.2026 неполная (isPartial=true)."
+}

@@ -1,0 +1,81 @@
+{
+ "fetched": "2026-09-30 20:42",
+ "data": {
+  "plantuml.com": {
+   "title": "Open-source tool that uses simple textual descriptions to draw beautiful UML diagrams.",
+   "description": "Easily create beautiful UML Diagrams from simple textual description. There are also numerous kind of available diagrams. It's also possible to export images in PNG, LaTeX, EPS, SVG."
+  },
+  "mermaid.js.org": {
+   "title": "Mermaid | Diagramming and charting tool",
+   "description": "Create diagrams and visualizations using text and code."
+  },
+  "mermaidchart.com": {
+   "title": "Mermaid",
+   "description": "Create diagrams, flowcharts, and documentation with Mermaid"
+  },
+  "d2lang.com": {
+   "title": "Home | D2 Documentation",
+   "description": null
+  },
+  "kroki.io": {
+   "title": "Kroki!",
+   "description": null
+  },
+  "planttext.com": {
+   "title": "PlantUML Editor Online - Free & Fast UML Diagram Tool | PlantText",
+   "description": "PlantText is the fastest online PlantUML editor. Write UML diagrams as code and instantly generate class, sequence, activity, and state diagrams. No installation needed."
+  },
+  "staruml.io": {
+   "title": "StarUML",
+   "description": "A sophisticated software modeler for agile and concise modeling"
+  },
+  "visual-paradigm.com": {
+   "title": "Visual Paradigm - AI-Powered Visual Modeling Platform",
+   "description": "The all-in-one platform for UML, BPMN, Enterprise Architecture, and Agile management. Now supercharged with Generative AI."
+  },
+  "bpmn.io": {
+   "title": "Web-based tooling for BPMN, DMN, CMMN, and Forms | bpmn.io",
+   "description": "Learn about our embeddable, web-based tooling for BPMN, DMN, CMMN, and Forms."
+  },
+  "camunda.com": {
+   "title": "Agentic Orchestration Platform | Camunda",
+   "description": "Camunda is the open platform for agentic orchestration. Coordinate AI agents, people, and systems across end-to-end processes with governance and control."
+  },
+  "stormbpmn.com": {
+   "title": "Storm — платформа процессного управления",
+   "description": "Одна платформа — семь модулей: редактор, реестр, архитектура, оргструктура, опросы, ИИ и симуляция."
+  },
+  "app.diagrams.net": {
+   "title": "Flowchart Maker & Online Diagram Software",
+   "description": "draw.io is free online diagram software for making flowcharts, process diagrams, org charts, UML, ER and network diagrams"
+  },
+  "www.drawio.com": {
+   "title": "Security-first diagramming for teams | draw.io",
+   "description": "Free, open source diagramming application with 100M+ users. Store your data wherever you want—we can't access it."
+  },
+  "creately.com": {
+   "title": "Creately | Visual Collaboration & Diagramming Platform",
+   "description": "Creately is an AI-powered diagramming and visual collaboration platform for creating flowcharts, org charts, mind maps, genograms, whiteboards, workflows, and diagrams online with your team."
+  },
+  "miro.com": {
+   "title": "AI Innovation Workspace | Miro",
+   "description": "Speed up product development from ideation to launch. Align teams, break tool silos and ship what customers need in one AI-powered visual platform."
+  },
+  "excalidraw.com": {
+   "title": "Excalidraw Whiteboard",
+   "description": "Excalidraw is a virtual collaborative whiteboard tool that lets you easily sketch diagrams that have a hand-drawn feel to them."
+  },
+  "dbdiagram.io": {
+   "title": "dbdiagram.io - Database Relationship Diagrams Design Tool",
+   "description": "Quick and simple free tool to help you draw your database relationship diagrams and flow quickly using simple DSL language."
+  },
+  "drawsql.app": {
+   "title": "DrawSQL — Database Schema Diagram Tool for Developers & Teams",
+   "description": "Import your SQL and get an interactive schema diagram — real-time collaboration, driver-aware types, team reviews. Free, no signup."
+  },
+  "eraser.io": {
+   "title": "Eraser – AI for diagrams that matter",
+   "description": "Create technical diagrams using AI. Deliver consistent, accurate designs faster."
+  }
+ }
+}

@@ -1,0 +1,3 @@
+URL: https://www.microsoft.com/en-us/microsoft-365/visio (from .../visio/flowchart-software); browser render 30.09.2026
+Visio Plan 1: $5.00 user/month, paid yearly (Annual or monthly commitment); web app; free trial one month
+Visio Plan 2: $15.00 user/month, paid yearly (Annual or monthly commitment); web + desktop apps

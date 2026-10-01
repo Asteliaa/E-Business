@@ -1,0 +1,5 @@
+URL: https://mermaid.ai/pricing (redirect from mermaidchart.com/pricing); get via browser render 30.09.2026
+Basic Free: 3 diagrams (table: up to 6), limited diagram size, limited AI, 1 team & project
+Plus: $10 per user / month BILLED ANNUALLY; unlimited diagrams; 300 AI credits per year
+Premium (MOST POPULAR): $20 per user / month BILLED ANNUALLY; 2,000 AI credits per year; unlimited free viewer seats; unlimited teams
+Enterprise: Custom. FAQ lists "Do you offer monthly and annual billing?" (answer text collapsed, not captured)

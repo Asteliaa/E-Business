@@ -1,0 +1,12 @@
+{"source":"trustpilot.com/review/<домен>, публичные страницы, просмотр в браузере","fetched":"2026-09-30 (около 20:40, время ПК)","note":"Автоматические запросы страниц отвечали 403 и не использовались; значения считаны со страниц, открытых в браузере. «нет страницы» - Trustpilot вернул 'page could not be found'.",
+"data":{
+"miro.com":{"reviews":155,"score":2.1},
+"lucidchart.com":{"reviews":116,"score":1.5},
+"mermaidchart.com":{"reviews":3,"score":3.5},
+"visual-paradigm.com":{"reviews":2,"score":3.5},
+"creately.com":{"reviews":58,"score":1.9},
+"camunda.com":{"reviews":1,"score":3.2},
+"sparxsystems.com":{"reviews":0,"score":0.0,"comment":"профиль без отзывов"},
+"diagrams.net":{"reviews":2,"score":3.8},
+"draw.io":{"reviews":11,"score":3.4,"comment":"отдельный профиль домена draw.io"},
+"plantuml.com":"нет страницы","d2lang.com":"нет страницы","kroki.io":"нет страницы","planttext.com":"нет страницы","staruml.io":"нет страницы","bpmn.io":"нет страницы","stormbpmn.com":"нет страницы","excalidraw.com":"нет страницы","dbdiagram.io":"нет страницы","drawsql.app":"нет страницы","mermaid.js.org":"нет страницы","eraser.io":"нет страницы","drawio.com":"нет страницы","visio.microsoft.com":"нет страницы"}}

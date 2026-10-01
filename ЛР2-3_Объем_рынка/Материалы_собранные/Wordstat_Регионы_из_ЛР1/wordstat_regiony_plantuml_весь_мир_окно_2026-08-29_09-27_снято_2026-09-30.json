@@ -1,0 +1,16 @@
+{
+  "query": "plantuml",
+  "source": "wordstat.yandex.ru, вкладка Регионы, регион «Все регионы», все устройства",
+  "window": "29.08.2026 – 27.09.2026",
+  "window_total_all_regions": 8481,
+  "snapshot_date": "2026-09-30 около 20:15 (окно считано на вкладке «Топы» того же запроса)",
+  "note": "Окно скользящее и обновляется ежедневно. Значения заменяют прежние (Беларусь 172, Россия 7308), у которых окно не было зафиксировано.",
+  "rows": [
+    {"region": "Россия", "queries": 7874, "share_pct": 0.0000730, "interest_index_pct": 103.04},
+    {"region": "СНГ (исключая Россию)", "queries": 340, "share_pct": 0.0000700, "interest_index_pct": 106.72},
+    {"region": "Беларусь", "queries": 170, "share_pct": 0.0000730, "interest_index_pct": 118.12},
+    {"region": "Казахстан", "queries": 154, "share_pct": 0.0000967, "interest_index_pct": 138.85},
+    {"region": "Минск и область", "queries": 142, "share_pct": 0.0001449, "interest_index_pct": 205.29},
+    {"region": "Минск", "queries": 124, "share_pct": 0.0001804, "interest_index_pct": 255.54}
+  ]
+}

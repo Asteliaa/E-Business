@@ -1,0 +1,32 @@
+{
+ "mermaid": {
+  "downloads": 64319010,
+  "start": "2026-08-30",
+  "end": "2026-09-28",
+  "package": "mermaid"
+ },
+ "plantuml-encoder": {
+  "downloads": 737152,
+  "start": "2026-08-30",
+  "end": "2026-09-28",
+  "package": "plantuml-encoder"
+ },
+ "bpmn-js": {
+  "downloads": 971126,
+  "start": "2026-08-30",
+  "end": "2026-09-28",
+  "package": "bpmn-js"
+ },
+ "drawio": {
+  "downloads": 724,
+  "start": "2026-08-30",
+  "end": "2026-09-28",
+  "package": "drawio"
+ },
+ "@excalidraw/excalidraw": {
+  "downloads": 2242195,
+  "start": "2026-08-30",
+  "end": "2026-09-28",
+  "package": "@excalidraw/excalidraw"
+ }
+}

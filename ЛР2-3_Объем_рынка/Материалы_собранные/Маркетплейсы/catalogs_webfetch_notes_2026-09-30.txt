@@ -1,0 +1,13 @@
+Ответы WebFetch/WebSearch 30.09.2026 (пересказ страниц моделью-обработчиком, не сырой HTML)
+Capterra Lucidchart /p/146136: 2264 reviews, 4.5 (WebSearch-сниппет раньше: 2246)
+Capterra Miro /p/128955: 1705, 4.7 (WebSearch: 1680)
+Capterra draw.io /p/166985: 773, 4.6 (WebSearch: 771)
+Capterra Creately /p/127628: 216, 4.4
+Capterra Visual Paradigm /p/145716: 19, 4.3
+Capterra Whimsical /p/172789: 59, 4.7
+GetApp/SoftwareAdvice Lucidchart: 2264, 4.5
+Trustpilot lucid.co: 8 reviews, 2.2; miro.com: 155, 2.1
+ProductHunt mermaid-chart: 26 reviews, 4.8, 1.2K followers; eraser-2: 10, 4.9, 1.9K
+Atlassian draw.io Diagrams app 1210933: 61555 installs, 4.8, 1205 reviews
+G2 (lucidchart, miro, draw-io): HTTP 403. Chrome Web Store: redirect на consent.google.com (не проходили). PH dbdiagram-io: 404.
+Ошибочный URL capterra /p/135003 оказался Slack - данные отброшены.

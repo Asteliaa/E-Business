@@ -1,0 +1,5 @@
+URL: https://dbdiagram.io/pricing ; browser render 30.09.2026; default toggle "Monthly billing" (annual billing "Save up to 42%")
+Free: forever; up to 10 diagrams & doc projects; single user
+Personal Pro: $8 /mo (monthly-billing view); unlimited diagrams; single user
+Team: $75 /mo (monthly-billing view), 3 users, 7-day free trial; extra user $5/mo
+Custom plan: contact sales, 10 users

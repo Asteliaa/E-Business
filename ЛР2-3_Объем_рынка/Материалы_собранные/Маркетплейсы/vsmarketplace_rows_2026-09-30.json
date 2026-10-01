@@ -1,0 +1,1022 @@
+{
+ "jebbs.plantuml": {
+  "id": "jebbs.plantuml",
+  "name": "PlantUML",
+  "install": 3712111,
+  "ratingcount": 105,
+  "avg": 4.72,
+  "updates": 8921253,
+  "trend": 1.2543754226509367,
+  "pricing": "validated, public"
+ },
+ "bierner.markdown-mermaid": {
+  "id": "bierner.markdown-mermaid",
+  "name": "Markdown Preview Mermaid Support",
+  "install": 5342719,
+  "ratingcount": 60,
+  "avg": 4.62,
+  "updates": 12507982,
+  "trend": 2.1081238634226462,
+  "pricing": "validated, public"
+ },
+ "hediet.vscode-drawio": {
+  "id": "hediet.vscode-drawio",
+  "name": "Draw.io Integration",
+  "install": 4173397,
+  "ratingcount": 161,
+  "avg": 4.91,
+  "updates": 4355339,
+  "trend": 1.7154910435757984,
+  "pricing": "validated, public"
+ },
+ "tomoyukim.vscode-mermaid-editor": {
+  "id": "tomoyukim.vscode-mermaid-editor",
+  "name": "Mermaid Editor",
+  "install": 282326,
+  "ratingcount": 17,
+  "avg": 4.53,
+  "updates": 171072,
+  "trend": 1.3601343832616293,
+  "pricing": "validated, public"
+ },
+ "vstirbu.vscode-mermaid-preview": {
+  "id": "vstirbu.vscode-mermaid-preview",
+  "name": "Mermaid Preview",
+  "install": 873949,
+  "ratingcount": 27,
+  "avg": 2.96,
+  "updates": 706067,
+  "trend": 5.789069308747305,
+  "pricing": "validated, public"
+ },
+ "MermaidChart.vscode-mermaid-chart": {
+  "id": "MermaidChart.vscode-mermaid-chart",
+  "name": "Mermaid",
+  "install": 1103663,
+  "ratingcount": 40,
+  "avg": 2.88,
+  "updates": 6675876,
+  "trend": 5.650013482460545,
+  "pricing": "validated, public"
+ },
+ "redhat.vscode-extension-bpmn-editor": {
+  "id": "redhat.vscode-extension-bpmn-editor",
+  "name": "BPMN Editor",
+  "install": 74480,
+  "ratingcount": 8,
+  "avg": 3.75,
+  "updates": 109593,
+  "trend": 1.9093142849470306,
+  "pricing": "validated, public"
+ },
+ "open-bpmn.open-bpmn-vscode-extension": {
+  "id": "open-bpmn.open-bpmn-vscode-extension",
+  "name": "Open-BPMN",
+  "install": 16468,
+  "ratingcount": 5,
+  "avg": 4.2,
+  "updates": 59685,
+  "trend": 2.471459800825844,
+  "pricing": "validated, public"
+ },
+ "miragon-gmbh.vs-code-bpmn-modeler": {
+  "id": "miragon-gmbh.vs-code-bpmn-modeler",
+  "name": "BPMN Modeler",
+  "install": 12573,
+  "ratingcount": 4,
+  "avg": 4.75,
+  "updates": 68196,
+  "trend": 6.522430798600063,
+  "pricing": "validated, public"
+ },
+ "kie-group.bpmn-vscode-extension": {
+  "id": "kie-group.bpmn-vscode-extension",
+  "name": "Apache KIE™ BPMN Editor",
+  "install": 25398,
+  "ratingcount": 0,
+  "avg": 0,
+  "updates": 32681,
+  "trend": 2.01212789415656,
+  "pricing": "validated, public"
+ },
+ "yleflour.vscode-bpmn-editor": {
+  "id": "yleflour.vscode-bpmn-editor",
+  "name": "BPMN Editor",
+  "install": 7822,
+  "ratingcount": 1,
+  "avg": 5,
+  "updates": 137,
+  "trend": 1.7898235745333675,
+  "pricing": "validated, public"
+ },
+ "flowscope.flowscope-extension": {
+  "id": "flowscope.flowscope-extension",
+  "name": "FlowScope BPMN",
+  "install": 35,
+  "ratingcount": 0,
+  "avg": 0,
+  "updates": 14,
+  "trend": 0,
+  "pricing": "validated, public"
+ },
+ "oisee.bpl": {
+  "id": "oisee.bpl",
+  "name": "BPMN-Lite",
+  "install": 0,
+  "ratingcount": 0,
+  "avg": 0,
+  "updates": 0,
+  "trend": 0,
+  "pricing": "validated, public"
+ },
+ "salaboy.vs-code-bpmn-io": {
+  "id": "salaboy.vs-code-bpmn-io",
+  "name": "vs-code-bpmn-io",
+  "install": 561,
+  "ratingcount": 3,
+  "avg": 5,
+  "updates": 197,
+  "trend": 0,
+  "pricing": "validated, public, unpublished"
+ },
+ "datakurre.vscode-operaton-form-js-modeler": {
+  "id": "datakurre.vscode-operaton-form-js-modeler",
+  "name": "Opinionated Camunda Forms (form-js) Playground",
+  "install": 53,
+  "ratingcount": 0,
+  "avg": 0,
+  "updates": 15,
+  "trend": 0,
+  "pricing": "validated, public, preview"
+ },
+ "datakurre.vscode-operaton-bpmn-js-modeler": {
+  "id": "datakurre.vscode-operaton-bpmn-js-modeler",
+  "name": "Opinionated BPMN 2.0 (bpmn-js) Modeler",
+  "install": 133,
+  "ratingcount": 0,
+  "avg": 0,
+  "updates": 186,
+  "trend": 12.781954887218044,
+  "pricing": "validated, public, preview"
+ },
+ "RineSong.process-designer": {
+  "id": "RineSong.process-designer",
+  "name": "Process Designer",
+  "install": 44,
+  "ratingcount": 0,
+  "avg": 0,
+  "updates": 5,
+  "trend": 0,
+  "pricing": "validated, public"
+ },
+ "davidmart.camunda-forms-editor": {
+  "id": "davidmart.camunda-forms-editor",
+  "name": "Camunda Forms Editor",
+  "install": 1150,
+  "ratingcount": 0,
+  "avg": 0,
+  "updates": 5,
+  "trend": 4.3478260869565215,
+  "pricing": "validated, public"
+ },
+ "SAPSE.sap-ux-application-modeler-extension": {
+  "id": "SAPSE.sap-ux-application-modeler-extension",
+  "name": "SAP Fiori Tools - Application Modeler",
+  "install": 216733,
+  "ratingcount": 3,
+  "avg": 5,
+  "updates": 2161485,
+  "trend": 2.0030176769424566,
+  "pricing": "validated, public"
+ },
+ "SAPSE.sap-ux-service-modeler-extension": {
+  "id": "SAPSE.sap-ux-service-modeler-extension",
+  "name": "SAP Fiori Tools - Service Modeler",
+  "install": 209019,
+  "ratingcount": 2,
+  "avg": 5,
+  "updates": 2048251,
+  "trend": 1.990344913376936,
+  "pricing": "validated, public"
+ },
+ "dineug.vuerd-vscode": {
+  "id": "dineug.vuerd-vscode",
+  "name": "ERD Editor",
+  "install": 193976,
+  "ratingcount": 37,
+  "avg": 4.84,
+  "updates": 704481,
+  "trend": 1.7549648388360726,
+  "pricing": "validated, public"
+ },
+ "kaishuu0123.vscode-erd-preview": {
+  "id": "kaishuu0123.vscode-erd-preview",
+  "name": "ERD Preview",
+  "install": 21356,
+  "ratingcount": 2,
+  "avg": 3,
+  "updates": 5098,
+  "trend": 0.7726165948679529,
+  "pricing": "validated, public"
+ },
+ "kajitiluna.erd-designer": {
+  "id": "kajitiluna.erd-designer",
+  "name": "ERD Designer",
+  "install": 1185,
+  "ratingcount": 2,
+  "avg": 5,
+  "updates": 5852,
+  "trend": 19.341216216216218,
+  "pricing": "validated, public"
+ },
+ "uniquevision.erd-tool": {
+  "id": "uniquevision.erd-tool",
+  "name": "ERD Tool",
+  "install": 1201,
+  "ratingcount": 1,
+  "avg": 5,
+  "updates": 2074,
+  "trend": 0.5828476269775187,
+  "pricing": "validated, public"
+ },
+ "datnguye.dbterd-vscode": {
+  "id": "datnguye.dbterd-vscode",
+  "name": "dbt ERD",
+  "install": 481,
+  "ratingcount": 0,
+  "avg": 0,
+  "updates": 396,
+  "trend": 17.671517671517673,
+  "pricing": "validated, public"
+ },
+ "Dukeabaddon.erd-visualizer": {
+  "id": "Dukeabaddon.erd-visualizer",
+  "name": "ERD Visualizer",
+  "install": 1097,
+  "ratingcount": 0,
+  "avg": 0,
+  "updates": 280,
+  "trend": 6.289881494986327,
+  "pricing": "validated, public"
+ },
+ "mikeeeyy04.schemap-erd": {
+  "id": "mikeeeyy04.schemap-erd",
+  "name": "Schemap ERD",
+  "install": 15,
+  "ratingcount": 0,
+  "avg": 0,
+  "updates": 3,
+  "trend": 0,
+  "pricing": "validated, public"
+ },
+ "ramanan2210.puml-erd-csharp-codegen": {
+  "id": "ramanan2210.puml-erd-csharp-codegen",
+  "name": "ERD to C# Entity Generator",
+  "install": 30,
+  "ratingcount": 4,
+  "avg": 5,
+  "updates": 2,
+  "trend": 0,
+  "pricing": "validated, public"
+ },
+ "matt-meyers.vscode-dbml": {
+  "id": "matt-meyers.vscode-dbml",
+  "name": "vscode-dbml",
+  "install": 94396,
+  "ratingcount": 3,
+  "avg": 5,
+  "updates": 19620,
+  "trend": 2.2972672268551384,
+  "pricing": "validated, public"
+ },
+ "bocovo.dbml-erd-visualizer": {
+  "id": "bocovo.dbml-erd-visualizer",
+  "name": "DBML Entity-Relationship Diagrams visualizer",
+  "install": 36933,
+  "ratingcount": 9,
+  "avg": 4.78,
+  "updates": 30823,
+  "trend": 3.6393176279447603,
+  "pricing": "validated, public"
+ },
+ "nicolas-liger.dbml-viewer": {
+  "id": "nicolas-liger.dbml-viewer",
+  "name": "DBML Live Preview",
+  "install": 32075,
+  "ratingcount": 1,
+  "avg": 5,
+  "updates": 6081,
+  "trend": 1.9582774642177805,
+  "pricing": "validated, public"
+ },
+ "duynvu.dbml-language": {
+  "id": "duynvu.dbml-language",
+  "name": "DBML Language",
+  "install": 15825,
+  "ratingcount": 0,
+  "avg": 0,
+  "updates": 28,
+  "trend": 0.9162717219589257,
+  "pricing": "validated, public"
+ },
+ "rizkykurniawan.dbml-previewer": {
+  "id": "rizkykurniawan.dbml-previewer",
+  "name": "DBML Previewer",
+  "install": 4475,
+  "ratingcount": 2,
+  "avg": 5,
+  "updates": 8382,
+  "trend": 6.079570853822084,
+  "pricing": "validated, public"
+ },
+ "momoca.dbml-outline": {
+  "id": "momoca.dbml-outline",
+  "name": "DBML Outline",
+  "install": 3,
+  "ratingcount": 0,
+  "avg": 0,
+  "updates": 1,
+  "trend": 0,
+  "pricing": "validated, public"
+ },
+ "tqdev-com.dbml-tools": {
+  "id": "tqdev-com.dbml-tools",
+  "name": "DBML Tools",
+  "install": 245,
+  "ratingcount": 0,
+  "avg": 0,
+  "updates": 2,
+  "trend": 24.081632653061224,
+  "pricing": "validated, public"
+ },
+ "thinkgrowstudio.dbml-canvas-vscode": {
+  "id": "thinkgrowstudio.dbml-canvas-vscode",
+  "name": "DBML Canvas",
+  "install": 110,
+  "ratingcount": 0,
+  "avg": 0,
+  "updates": 17,
+  "trend": 60.550458715596335,
+  "pricing": "validated, public"
+ },
+ "AleksandarDev.vscode-sequence-diagrams": {
+  "id": "AleksandarDev.vscode-sequence-diagrams",
+  "name": "VSCode Sequence Diagrams",
+  "install": 49999,
+  "ratingcount": 11,
+  "avg": 4.45,
+  "updates": 24880,
+  "trend": 0.3040060801216024,
+  "pricing": "validated, public, preview"
+ },
+ "EraserLabs.eraserlabs": {
+  "id": "EraserLabs.eraserlabs",
+  "name": "Eraser Diagrams",
+  "install": 12640,
+  "ratingcount": 5,
+  "avg": 4.8,
+  "updates": 5066,
+  "trend": 2.278481012658228,
+  "pricing": "validated, public"
+ },
+ "arichika.previewseqdiag-vscode": {
+  "id": "arichika.previewseqdiag-vscode",
+  "name": "Preview Sequence Diagrams",
+  "install": 32313,
+  "ratingcount": 1,
+  "avg": 5,
+  "updates": 72263,
+  "trend": 1.3184364457924547,
+  "pricing": "validated, public"
+ },
+ "kieler.klighd-vscode": {
+  "id": "kieler.klighd-vscode",
+  "name": "KLighD Diagrams",
+  "install": 14266,
+  "ratingcount": 1,
+  "avg": 5,
+  "updates": 7797,
+  "trend": 3.336838415702769,
+  "pricing": "validated, public"
+ },
+ "tehpeng.diagramspreviewer": {
+  "id": "tehpeng.diagramspreviewer",
+  "name": "Diagrams Previewer",
+  "install": 7287,
+  "ratingcount": 1,
+  "avg": 5,
+  "updates": 2853,
+  "trend": 0.603815013036915,
+  "pricing": "validated, public"
+ },
+ "gebv.pikchr": {
+  "id": "gebv.pikchr",
+  "name": "Pikchr diagrams",
+  "install": 563,
+  "ratingcount": 0,
+  "avg": 0,
+  "updates": 8,
+  "trend": 1.0657193605683837,
+  "pricing": "validated, public"
+ },
+ "VolkanUnsal.schematex-vscode": {
+  "id": "VolkanUnsal.schematex-vscode",
+  "name": "SchemaTex Diagrams",
+  "install": 3,
+  "ratingcount": 0,
+  "avg": 0,
+  "updates": 2,
+  "trend": 0,
+  "pricing": "validated, public"
+ },
+ "hediet.vscode-drawio-insiders-build": {
+  "id": "hediet.vscode-drawio-insiders-build",
+  "name": "Draw.io Integration - Insiders Build",
+  "install": 57452,
+  "ratingcount": 2,
+  "avg": 5,
+  "updates": 138446,
+  "trend": 0.08528858873494395,
+  "pricing": "validated, public, preview"
+ },
+ "nopeslide.vscode-drawio-plugin-mermaid": {
+  "id": "nopeslide.vscode-drawio-plugin-mermaid",
+  "name": "Draw.io Integration: Mermaid plugin",
+  "install": 127740,
+  "ratingcount": 2,
+  "avg": 5,
+  "updates": 7966,
+  "trend": 2.1021232619316046,
+  "pricing": "validated, public"
+ },
+ "TripleDot.tripledot-vscode-drawio": {
+  "id": "TripleDot.tripledot-vscode-drawio",
+  "name": "Triple Dot - Draw.io Integration",
+  "install": 610,
+  "ratingcount": 0,
+  "avg": 0,
+  "updates": 178,
+  "trend": 0,
+  "pricing": "validated, public, unpublished"
+ },
+ "nopeslide.vscode-drawio-plugin-wavedrom": {
+  "id": "nopeslide.vscode-drawio-plugin-wavedrom",
+  "name": "Draw.io Integration: WaveDrom plugin",
+  "install": 21307,
+  "ratingcount": 1,
+  "avg": 5,
+  "updates": 24,
+  "trend": 1.2907162301699053,
+  "pricing": "validated, public"
+ },
+ "nopeslide.vscode-drawio-plugin-rtl": {
+  "id": "nopeslide.vscode-drawio-plugin-rtl",
+  "name": "Draw.io Integration: RTL plugin",
+  "install": 21424,
+  "ratingcount": 1,
+  "avg": 5,
+  "updates": 5538,
+  "trend": 3.5195817579237265,
+  "pricing": "validated, public"
+ },
+ "dzylikecode.vscode-drawio-plugin-markdown": {
+  "id": "dzylikecode.vscode-drawio-plugin-markdown",
+  "name": "Draw.io Integration: Markdown plugin",
+  "install": 6789,
+  "ratingcount": 0,
+  "avg": 0,
+  "updates": 19,
+  "trend": 1.6647024160282853,
+  "pricing": "validated, public"
+ },
+ "NicoBit.c4archtect": {
+  "id": "NicoBit.c4archtect",
+  "name": "ArchTect - C4 Visual Architecture Modeling with AI",
+  "install": 646,
+  "ratingcount": 1,
+  "avg": 5,
+  "updates": 1091,
+  "trend": 16.253869969040245,
+  "pricing": "validated, public"
+ },
+ "VnELabs.mdviewer": {
+  "id": "VnELabs.mdviewer",
+  "name": "MD Viewer - Markdown & Mermaid Preview",
+  "install": 21807,
+  "ratingcount": 0,
+  "avg": 0,
+  "updates": 46,
+  "trend": 10.42564902302541,
+  "pricing": "validated, public"
+ },
+ "GNDEV.md-mermaid-preview-support": {
+  "id": "GNDEV.md-mermaid-preview-support",
+  "name": "MD Mermaid Preview Support",
+  "install": 6060,
+  "ratingcount": 1,
+  "avg": 5,
+  "updates": 30,
+  "trend": 6.32013201320132,
+  "pricing": "validated, public"
+ },
+ "ioggstream.markdown-mermaid-d3fend": {
+  "id": "ioggstream.markdown-mermaid-d3fend",
+  "name": "Markdown Preview Mermaid with D3fend Support",
+  "install": 5402,
+  "ratingcount": 0,
+  "avg": 0,
+  "updates": 3361,
+  "trend": 1.4441770042584707,
+  "pricing": "validated, public"
+ },
+ "pomdtr.markdown-kroki": {
+  "id": "pomdtr.markdown-kroki",
+  "name": "Markdown Kroki",
+  "install": 50255,
+  "ratingcount": 2,
+  "avg": 5,
+  "updates": 11060,
+  "trend": 1.174035897639989,
+  "pricing": "validated, public"
+ },
+ "tiendang.markdown-preview-mermaid": {
+  "id": "tiendang.markdown-preview-mermaid",
+  "name": "Markdown Preview with Mermaid Zoom & Pan",
+  "install": 422,
+  "ratingcount": 0,
+  "avg": 0,
+  "updates": 3,
+  "trend": 11.163895486935866,
+  "pricing": "validated, public"
+ },
+ "EchEmLabs.markdown-mermaid-zoom": {
+  "id": "EchEmLabs.markdown-mermaid-zoom",
+  "name": "Markdown Mermaid Zoom",
+  "install": 924,
+  "ratingcount": 0,
+  "avg": 0,
+  "updates": 4,
+  "trend": 22.426868905742143,
+  "pricing": "validated, public"
+ },
+ "PJCMICE.render-mermaid-markdown-view": {
+  "id": "PJCMICE.render-mermaid-markdown-view",
+  "name": "Render Mermaid Markdown View",
+  "install": 357,
+  "ratingcount": 0,
+  "avg": 0,
+  "updates": 39,
+  "trend": 17.647058823529413,
+  "pricing": "validated, public"
+ },
+ "Mebrahtom.plantumlpreviewer": {
+  "id": "Mebrahtom.plantumlpreviewer",
+  "name": "PlantUML Previewer",
+  "install": 304035,
+  "ratingcount": 9,
+  "avg": 2.56,
+  "updates": 1485,
+  "trend": 1.2091150698629056,
+  "pricing": "validated, public"
+ },
+ "well-ar.plantuml": {
+  "id": "well-ar.plantuml",
+  "name": "PlantUML - Simple Viewer",
+  "install": 187430,
+  "ratingcount": 4,
+  "avg": 5,
+  "updates": 34960,
+  "trend": 1.2831593998762192,
+  "pricing": "validated, public"
+ },
+ "qhoekman.language-plantuml": {
+  "id": "qhoekman.language-plantuml",
+  "name": "PlantUML Syntax",
+  "install": 163778,
+  "ratingcount": 5,
+  "avg": 1.2,
+  "updates": 3982,
+  "trend": 0.7949882766705744,
+  "pricing": "validated, public"
+ },
+ "myml.vscode-markdown-plantuml-preview": {
+  "id": "myml.vscode-markdown-plantuml-preview",
+  "name": "Markdown Plantuml Preview",
+  "install": 72431,
+  "ratingcount": 10,
+  "avg": 5,
+  "updates": 300,
+  "trend": 2.0765163125267505,
+  "pricing": "validated, public"
+ },
+ "clysto.plantuml": {
+  "id": "clysto.plantuml",
+  "name": "PlantUML Grammar",
+  "install": 50783,
+  "ratingcount": 0,
+  "avg": 0,
+  "updates": 80,
+  "trend": 0.9038457751609792,
+  "pricing": "validated, public"
+ },
+ "BenkoSoftware.plantumlviewer": {
+  "id": "BenkoSoftware.plantumlviewer",
+  "name": "PlantUML Viewer",
+  "install": 24441,
+  "ratingcount": 2,
+  "avg": 5,
+  "updates": 149,
+  "trend": 4.595678507120642,
+  "pricing": "validated, public"
+ },
+ "pierre3.csharp-to-plantuml": {
+  "id": "pierre3.csharp-to-plantuml",
+  "name": "CSharp to PlantUML",
+  "install": 33113,
+  "ratingcount": 3,
+  "avg": 5,
+  "updates": 24718,
+  "trend": 0.7459531287750665,
+  "pricing": "validated, public"
+ },
+ "mohanChinnappan.mc-mermaid-editor": {
+  "id": "mohanChinnappan.mc-mermaid-editor",
+  "name": "MC Mermaid Editor ",
+  "install": 893,
+  "ratingcount": 0,
+  "avg": 0,
+  "updates": 6,
+  "trend": 3.3594624860022395,
+  "pricing": "validated, public"
+ },
+ "haizy.mermaidx": {
+  "id": "haizy.mermaidx",
+  "name": "Mermaid Editor Pro",
+  "install": 323,
+  "ratingcount": 0,
+  "avg": 0,
+  "updates": 245,
+  "trend": 11.455108359133128,
+  "pricing": "validated, public"
+ },
+ "visual-mermaid-editor.visual-mermaid-editor": {
+  "id": "visual-mermaid-editor.visual-mermaid-editor",
+  "name": "Visual Mermaid Editor",
+  "install": 1197,
+  "ratingcount": 0,
+  "avg": 0,
+  "updates": 1,
+  "trend": 5.263157894736842,
+  "pricing": "validated, public"
+ },
+ "ceasg.ceasg": {
+  "id": "ceasg.ceasg",
+  "name": "Visual Mermaid Editor in Markdown - ceasg",
+  "install": 71,
+  "ratingcount": 0,
+  "avg": 0,
+  "updates": 30,
+  "trend": 0,
+  "pricing": "validated, public"
+ },
+ "corschenzi.mermaid-graphical-editor": {
+  "id": "corschenzi.mermaid-graphical-editor",
+  "name": "Mermaid Graphical Editor",
+  "install": 78542,
+  "ratingcount": 15,
+  "avg": 4.87,
+  "updates": 151393,
+  "trend": 2.3264994269705843,
+  "pricing": "validated, public"
+ },
+ "SS-inkwright.mermaid-node-editor": {
+  "id": "SS-inkwright.mermaid-node-editor",
+  "name": "Mermaid Node Editor",
+  "install": 32,
+  "ratingcount": 0,
+  "avg": 0,
+  "updates": 24,
+  "trend": 0,
+  "pricing": "validated, public"
+ },
+ "pomdtr.excalidraw-editor": {
+  "id": "pomdtr.excalidraw-editor",
+  "name": "Excalidraw",
+  "install": 555672,
+  "ratingcount": 33,
+  "avg": 4.94,
+  "updates": 731612,
+  "trend": 2.952467168313125,
+  "pricing": "validated, public"
+ },
+ "telesoho.excalidraw-editor-cj": {
+  "id": "telesoho.excalidraw-editor-cj",
+  "name": "Excalidraw-cj",
+  "install": 7601,
+  "ratingcount": 1,
+  "avg": 5,
+  "updates": 891,
+  "trend": 1.105117747664781,
+  "pricing": "validated, public"
+ },
+ "brijeshb42.vscode-excalidraw": {
+  "id": "brijeshb42.vscode-excalidraw",
+  "name": "Excalidraw integration",
+  "install": 2854,
+  "ratingcount": 2,
+  "avg": 5,
+  "updates": 133,
+  "trend": 0,
+  "pricing": "validated, public, unpublished"
+ },
+ "nadomani.excalidraw-copilot": {
+  "id": "nadomani.excalidraw-copilot",
+  "name": "Excalidraw Copilot",
+  "install": 2272,
+  "ratingcount": 2,
+  "avg": 5,
+  "updates": 215,
+  "trend": 9.198943661971832,
+  "pricing": "validated, public"
+ },
+ "erkanp.excalidraw-new-file": {
+  "id": "erkanp.excalidraw-new-file",
+  "name": "excalidraw-new-file",
+  "install": 2064,
+  "ratingcount": 1,
+  "avg": 5,
+  "updates": 78,
+  "trend": 1.937984496124031,
+  "pricing": "validated, public"
+ },
+ "ErezKorn.markdown-inline-excalidraw": {
+  "id": "ErezKorn.markdown-inline-excalidraw",
+  "name": "Markdown Inline Excalidraw",
+  "install": 398,
+  "ratingcount": 0,
+  "avg": 0,
+  "updates": 3,
+  "trend": 14.07035175879397,
+  "pricing": "validated, public"
+ },
+ "jkchao.vscode-excalidraw-plugin": {
+  "id": "jkchao.vscode-excalidraw-plugin",
+  "name": "Excalidraw VSCode Plugin",
+  "install": 369,
+  "ratingcount": 1,
+  "avg": 4,
+  "updates": 483,
+  "trend": 0,
+  "pricing": "validated, public, unpublished"
+ },
+ "martin-lysk.excaliframe": {
+  "id": "martin-lysk.excaliframe",
+  "name": "Excaliframe - Animated Excalidraw with Auto-Export",
+  "install": 348,
+  "ratingcount": 1,
+  "avg": 5,
+  "updates": 25,
+  "trend": 19.25287356321839,
+  "pricing": "validated, public"
+ },
+ "yejinh.eraser": {
+  "id": "yejinh.eraser",
+  "name": "eraser",
+  "install": 216,
+  "ratingcount": 0,
+  "avg": 0,
+  "updates": 0,
+  "trend": 1.8518518518518516,
+  "pricing": "validated, public"
+ },
+ "ranrar.emoji-detector": {
+  "id": "ranrar.emoji-detector",
+  "name": "Emoji Eraser",
+  "install": 79,
+  "ratingcount": 0,
+  "avg": 0,
+  "updates": 7,
+  "trend": 0,
+  "pricing": "validated, public"
+ },
+ "awtnb.cursor-eraser": {
+  "id": "awtnb.cursor-eraser",
+  "name": "cursor-eraser",
+  "install": 151,
+  "ratingcount": 0,
+  "avg": 0,
+  "updates": 36,
+  "trend": 1.3245033112582782,
+  "pricing": "validated, public"
+ },
+ "clean-comments.comment-eraser": {
+  "id": "clean-comments.comment-eraser",
+  "name": "Comment Eraser Tool",
+  "install": 31,
+  "ratingcount": 0,
+  "avg": 0,
+  "updates": 0,
+  "trend": 0,
+  "pricing": "validated, public"
+ },
+ "DabwitsoMweemba.emoji-eraser": {
+  "id": "DabwitsoMweemba.emoji-eraser",
+  "name": "Emoji Eraser — Clean AI-generated code artifacts instantly",
+  "install": 164,
+  "ratingcount": 1,
+  "avg": 5,
+  "updates": 4,
+  "trend": 2.4390243902439024,
+  "pricing": "validated, public"
+ },
+ "ReadyStack.wordpress-privacy-lint": {
+  "id": "ReadyStack.wordpress-privacy-lint",
+  "name": "WordPress GDPR Lint - DSGVO privacy checks for PHP themes and plugins",
+  "install": 2,
+  "ratingcount": 0,
+  "avg": 0,
+  "updates": 2,
+  "trend": 0,
+  "pricing": "validated, public"
+ },
+ "noname19347.REPACK-Magic-Skin-Filter-V11-Crack-Keygen": {
+  "id": "noname19347.REPACK-Magic-Skin-Filter-V11-Crack-Keygen",
+  "name": "REPACK Magic Skin Filter V11 Crack Keygen",
+  "install": 0,
+  "ratingcount": 0,
+  "avg": 0,
+  "updates": 0,
+  "trend": 0,
+  "pricing": "validated, public, unpublished"
+ },
+ "justuskarlsson.plan-uml": {
+  "id": "justuskarlsson.plan-uml",
+  "name": "Plan UML",
+  "install": 37342,
+  "ratingcount": 0,
+  "avg": 0,
+  "updates": 169,
+  "trend": 10.531108551838658,
+  "pricing": "validated, public"
+ },
+ "AbianS.prisma-generate-uml": {
+  "id": "AbianS.prisma-generate-uml",
+  "name": "Prisma Generate UML",
+  "install": 42481,
+  "ratingcount": 2,
+  "avg": 5,
+  "updates": 71419,
+  "trend": 1.7631411689931968,
+  "pricing": "validated, public"
+ },
+ "immament.vscode-ngrx-uml": {
+  "id": "immament.vscode-ngrx-uml",
+  "name": "ngrx-uml",
+  "install": 25656,
+  "ratingcount": 1,
+  "avg": 5,
+  "updates": 221,
+  "trend": 0.13642033052697225,
+  "pricing": "validated, public"
+ },
+ "NickvD.java-to-drawio-uml": {
+  "id": "NickvD.java-to-drawio-uml",
+  "name": "Java to Draw.io UML",
+  "install": 15178,
+  "ratingcount": 6,
+  "avg": 4.83,
+  "updates": 411,
+  "trend": 1.2452233495849256,
+  "pricing": "validated, public"
+ },
+ "myxvisual.vscode-ts-uml": {
+  "id": "myxvisual.vscode-ts-uml",
+  "name": "vscode-ts-uml",
+  "install": 42620,
+  "ratingcount": 7,
+  "avg": 2.57,
+  "updates": 10463,
+  "trend": 0.014077897700610041,
+  "pricing": "validated, public"
+ },
+ "0SMA0.uml-generator": {
+  "id": "0SMA0.uml-generator",
+  "name": "UML Generator for Java",
+  "install": 6265,
+  "ratingcount": 1,
+  "avg": 5,
+  "updates": 20,
+  "trend": 5.062280421590546,
+  "pricing": "validated, public"
+ },
+ "TheUMLetTeam.umlet": {
+  "id": "TheUMLetTeam.umlet",
+  "name": "UMLet",
+  "install": 173069,
+  "ratingcount": 30,
+  "avg": 4.93,
+  "updates": 81654,
+  "trend": 0.7315128332543653,
+  "pricing": "validated, public"
+ },
+ "flying-dice.lsp-uml": {
+  "id": "flying-dice.lsp-uml",
+  "name": "LSP UML",
+  "install": 59,
+  "ratingcount": 0,
+  "avg": 0,
+  "updates": 2,
+  "trend": 0,
+  "pricing": "validated, public"
+ },
+ "bpruitt-goddard.mermaid-markdown-syntax-highlighting": {
+  "id": "bpruitt-goddard.mermaid-markdown-syntax-highlighting",
+  "name": "Mermaid Markdown Syntax Highlighting",
+  "install": 832703,
+  "ratingcount": 19,
+  "avg": 4.32,
+  "updates": 3440113,
+  "trend": 1.0647662762363528,
+  "pricing": "validated, public"
+ },
+ "ms-vscode.copilot-mermaid-diagram": {
+  "id": "ms-vscode.copilot-mermaid-diagram",
+  "name": "vscode-mermAId",
+  "install": 113765,
+  "ratingcount": 7,
+  "avg": 5,
+  "updates": 323012,
+  "trend": 0.43072000562573065,
+  "pricing": "validated, public"
+ },
+ "purocean.drawio-preview": {
+  "id": "purocean.drawio-preview",
+  "name": "Drawio Preview",
+  "install": 173274,
+  "ratingcount": 2,
+  "avg": 5,
+  "updates": 14474,
+  "trend": 2.3687081190587502,
+  "pricing": "validated, public"
+ },
+ "eightHundreds.vscode-drawio": {
+  "id": "eightHundreds.vscode-drawio",
+  "name": "vscode-drawio",
+  "install": 154267,
+  "ratingcount": 3,
+  "avg": 5,
+  "updates": 2532,
+  "trend": 0.41293651668276493,
+  "pricing": "validated, public"
+ },
+ "zhaomengyao20210224.vscode-drawio": {
+  "id": "zhaomengyao20210224.vscode-drawio",
+  "name": "vscode-drawio",
+  "install": 4588,
+  "ratingcount": 0,
+  "avg": 0,
+  "updates": 2,
+  "trend": 1.264167393199651,
+  "pricing": "validated, public"
+ },
+ "zhfjyq.vscode-plugin-drawio": {
+  "id": "zhfjyq.vscode-plugin-drawio",
+  "name": "Drawio Markdown",
+  "install": 24117,
+  "ratingcount": 6,
+  "avg": 1.83,
+  "updates": 1674,
+  "trend": 0.393929341516006,
+  "pricing": "validated, public"
+ },
+ "Maku.drawio-in-html": {
+  "id": "Maku.drawio-in-html",
+  "name": "Drawio in HTML",
+  "install": 227,
+  "ratingcount": 0,
+  "avg": 0,
+  "updates": 97,
+  "trend": 17.180616740088105,
+  "pricing": "validated, public"
+ },
+ "raijyo.drawio-timestamp-creator": {
+  "id": "raijyo.drawio-timestamp-creator",
+  "name": "drawio-timestamp-creator",
+  "install": 84,
+  "ratingcount": 0,
+  "avg": 0,
+  "updates": 0,
+  "trend": 0,
+  "pricing": "validated, public"
+ },
+ "rintaro-sugishita.mermaid-to-drawio-converter": {
+  "id": "rintaro-sugishita.mermaid-to-drawio-converter",
+  "name": "Mermaid to Drawio Converter",
+  "install": 205,
+  "ratingcount": 0,
+  "avg": 0,
+  "updates": 87,
+  "trend": 12.195121951219512,
+  "pricing": "validated, public"
+ }
+}

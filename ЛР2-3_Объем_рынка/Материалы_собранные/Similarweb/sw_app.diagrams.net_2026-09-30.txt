@@ -1,0 +1,7 @@
+Источник: https://www.similarweb.com/website/app.diagrams.net/
+Дата: 2026-09-30. Заголовок: "app.diagrams.net Traffic Analytics, Ranking & Audience [August 2026] | Similarweb"
+РЕЗУЛЬТАТ: доступ закрыт (лимит бесплатных просмотров). Поверх страницы окно: "You've hit your search limit. Start a free trial to see what insights are waiting for you. [Get Started]".
+Все показатели на странице: "- -" / "No Data Available" / "No Data to Display" (Global/Country/Category Rank, Bounce, Pages/Visit, Duration, страны, каналы, ключевые слова, конкуренты).
+Причина: достигнут дневной/сессионный лимит бесплатных страниц Similarweb без логина (сработал уже на 2-м домене). Обход (инкогнито, чистка cookie, VPN, аккаунт) не применялся по условиям задачи.
+Данные по домену: нет данных в бесплатном доступе (доступ закрыт: лимит/логин).
+Скриншот окна лимита: Скриншоты\similarweb_traffic_app.diagrams.net_global_limit_2026-09-30.png

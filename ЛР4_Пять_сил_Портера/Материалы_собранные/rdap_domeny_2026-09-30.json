@@ -1,0 +1,134 @@
+{
+ "fetched": "2026-09-30 20:29",
+ "source": "rdap.org",
+ "data": {
+  "plantuml.com": {
+   "registration": "2010-11-28T13:34:46Z",
+   "expiration": "2026-11-28T13:34:46Z",
+   "changed": "2025-09-06T10:26:50Z"
+  },
+  "mermaid.js.org": {
+   "registration": "1996-06-26T04:00:00.881Z",
+   "expiration": "2032-06-25T04:00:00Z",
+   "changed": "2026-08-12T03:45:37.074Z",
+   "note": "домен-родитель js.org"
+  },
+  "mermaidchart.com": {
+   "registration": "2022-06-14T22:29:44Z",
+   "expiration": "2027-06-14T22:29:44Z",
+   "changed": "2026-05-16T09:07:31Z"
+  },
+  "d2lang.com": {
+   "registration": "2022-10-24T23:08:40Z",
+   "expiration": "2027-10-24T23:08:40Z",
+   "changed": "2026-09-19T23:11:56Z"
+  },
+  "kroki.io": {
+   "registration": "2019-01-06T22:18:23.163Z",
+   "expiration": "2027-01-06T22:18:23.163Z",
+   "changed": "2026-08-11T21:21:36.094Z",
+   "note": null
+  },
+  "planttext.com": {
+   "registration": "2013-12-15T00:55:56Z",
+   "expiration": "2026-12-15T00:55:56Z",
+   "changed": "2026-05-14T12:28:39Z"
+  },
+  "staruml.io": {
+   "registration": "2013-07-09T08:25:52Z",
+   "expiration": "2029-07-09T08:25:52Z",
+   "changed": "2026-08-12T05:48:57.968Z",
+   "note": null
+  },
+  "visual-paradigm.com": {
+   "registration": "2001-06-06T08:52:37Z",
+   "expiration": "2030-06-06T08:52:37Z",
+   "changed": "2025-04-06T14:18:41Z"
+  },
+  "sparxsystems.com": {
+   "registration": "2002-07-04T10:42:46Z",
+   "expiration": "2027-07-04T10:48:16Z",
+   "changed": "2026-06-04T02:08:21Z"
+  },
+  "bpmn.io": {
+   "registration": "2014-01-13T14:04:09Z",
+   "expiration": "2027-01-13T14:04:09Z",
+   "changed": "2026-08-12T01:04:19.953Z",
+   "note": null
+  },
+  "camunda.com": {
+   "registration": "2005-02-23T15:12:20Z",
+   "expiration": "2027-02-23T15:12:20Z",
+   "changed": "2026-02-24T08:25:16Z"
+  },
+  "stormbpmn.com": {
+   "registration": "2022-03-16T08:28:17Z",
+   "expiration": "2027-03-16T08:28:17Z",
+   "changed": "2026-09-27T07:25:39Z",
+   "note": null
+  },
+  "diagrams.net": {
+   "registration": "2010-03-17T18:39:19Z",
+   "expiration": "2030-03-17T18:39:19Z",
+   "changed": "2021-12-01T16:28:23Z",
+   "note": null
+  },
+  "drawio.com": {
+   "registration": "2008-07-10T21:22:34Z",
+   "expiration": "2027-07-10T21:22:34Z",
+   "changed": "2026-06-10T04:07:44Z",
+   "note": null
+  },
+  "lucidchart.com": {
+   "registration": "2008-09-27T18:36:59Z",
+   "expiration": "2028-09-27T18:36:59Z",
+   "changed": "2026-08-26T12:44:32Z",
+   "note": null
+  },
+  "creately.com": {
+   "registration": "2008-07-15T11:02:51Z",
+   "expiration": "2027-07-15T11:02:51Z",
+   "changed": "2026-07-16T08:14:39Z",
+   "note": null
+  },
+  "miro.com": {
+   "registration": "1995-09-08T04:00:00Z",
+   "expiration": "2027-09-07T04:00:00Z",
+   "changed": "2026-08-03T04:03:26Z",
+   "note": null
+  },
+  "excalidraw.com": {
+   "registration": "2020-01-03T16:14:17Z",
+   "expiration": "2028-01-03T16:14:17Z",
+   "changed": "2025-10-22T17:10:42Z",
+   "note": null
+  },
+  "dbdiagram.io": {
+   "registration": "2018-08-08T02:47:12.972Z",
+   "expiration": "2027-08-08T02:47:12.972Z",
+   "changed": "2026-08-12T01:45:27.994Z",
+   "note": null
+  },
+  "drawsql.app": {
+   "registration": "2018-05-13T04:56:39.210Z",
+   "expiration": "2027-05-13T04:56:39.210Z",
+   "changed": "2026-05-17T03:03:02.780Z",
+   "note": null
+  },
+  "eraser.io": {
+   "registration": "2014-10-03T03:12:26Z",
+   "expiration": "2027-10-03T03:12:26Z",
+   "changed": "2026-09-08T08:13:20.408Z",
+   "note": null
+  },
+  "js.org": {
+   "registration": "1996-06-26T04:00:00.881Z",
+   "expiration": "2032-06-25T04:00:00Z",
+   "changed": "2026-08-12T03:45:37.074Z",
+   "note": null
+  },
+  "mermaid.ai": {
+   "error": "error code: 1015\n"
+  }
+ }
+}

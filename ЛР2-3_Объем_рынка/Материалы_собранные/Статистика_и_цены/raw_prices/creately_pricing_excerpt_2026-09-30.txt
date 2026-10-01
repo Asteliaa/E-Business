@@ -1,0 +1,6 @@
+URL: https://creately.com/plans/ (the /pricing/ and /plans-and-pricing/ URLs return 404); browser render 30.09.2026; toggle Annual selected; currency USD
+Free: $0 forever; unlimited canvases; 45 items per canvas
+Starter: $5/mo billed annually at $60 ("$5/mo instead of $8/mo"); 1000 items per canvas; AI diagrams
+Team: $5/user/mo billed annually ("Save $36/user/year")
+Business: $89/mo billed annually at $1068 (unlimited users)
+Education: "Creately for Education - Collaborative diagramming for educators and students at discounted rates" (amount not stated)

@@ -1,0 +1,63 @@
+Источник: https://www.similarweb.com/website/plantuml.com/  (бесплатная страница, без логина)
+Дата снятия: 2026-09-30. Заголовок страницы: "plantuml.com Traffic Analytics, Ranking & Audience [August 2026] | Similarweb"
+Период на странице: August 2026 (графики "последние 3 месяца": JUN, JUL, AUG 2026). Фильтр: All traffic. Показано: "Similarweb estimated data".
+Текст ниже - get_page_text (<main>), рекламные блоки Similarweb ("Try it now", "Get a live demo") опущены; все данные сохранены дословно.
+Скриншот: Скриншоты\similarweb_traffic_plantuml.com_global_last3months_2026-09-30.png (низкое разрешение, панель браузера мала)
+
+==== ДОСЛОВНЫЙ ТЕКСТ ====
+plantuml.com
+PlantUML website is running since 2009 with excellent natural referencing because it's used by many major IT  Show more
+Global Rank #93,517 (19,492 - изменение)
+Country Rank #24,334 (5,562) Russia
+Category Rank #692 (173) Computers Electronics and Technology > Programming and Developer Software (In Russia)
+Bounce Rate 45.52%
+Pages per Visit 3.18
+Avg Visit Duration 00:03:16
+Company / Year Founded / Employees / HQ / Annual Revenue / Industry: "- -" (нет данных)
+
+plantuml.com Ranking by Traffic: Over the last three months, plantuml.com's global ranking has increased from 74,025 to 93,517.
+(числа ранга выросли = позиция ухудшилась: 74,025 -> 93,517)
+Similarly ranked sites: 690 androidapks.com; 691 thunderbird.net; 692 plantuml.com; 693 ambientcg.com; 694 rshbdigital.ru
+
+Traffic & Engagement: plantuml.com's web traffic has decreased by 27.81% compared to last month.
+Last Month Change 27.81% (снижение)
+Total Visits Last 3 Months (JUN, JUL, AUG): на графике ось "<100M"; подпись значения для последнего месяца: 507K (plantuml.com)
+Compare: app.diagrams.net ??B; mermaidchart.com ??B; eraser.io ??B; drawio-app.com ??B (значения скрыты)
+
+Web Traffic by Country (Last month Russia was the top country sending desktop traffic):
+Russia 9.07% (вторая цифра 47.74% - вероятно изменение за месяц)
+Germany 7.21% (51.2%)
+China 6.4% (8.15%)
+Japan 4.61% (30.22%)
+United States 4.57% (29.18%)
+Others 68.15%
+(Беларусь и Казахстан в топ-5 не показаны; Россия - 9.07%)
+
+Demographics: 69.66% male, 30.34% female. Largest age group 25-34.
+Age: 18-24 15.69%; 25-34 33.63%; 35-44 21.4%; 45-54 14.65%; 55-64 9.09%; 65+ 5.55%
+Top Categories: Programming and Developer Software; AI Chatbots and Tools; Search Engines; Social Media Networks; Computers Electronics and Technology - Other
+Other Visited Websites: github.com, mail.google.com, chatgpt.com, google.com, gemini.google.com
+Top Topics: social network, git, github, ruby, source code
+
+Competitors & Similar Sites (affinity; category rank):
+app.diagrams.net 100% -- ; mermaidchart.com 92% -- ; eraser.io 90% #1,440 ; drawio-app.com 85% #4,059 ; sequencediagram.org 80% #10,508 ; websequencediagrams.com 78% #19,599 ; visual-paradigm.com 75% #922 ; sparxsystems.com 73% #6,147 ; uml-diagrams.org 71% #10,205 ; mermaid.live 68% #319
+(все - Computers Electronics and Technology > Programming and Developer Software)
+
+Top Traffic Sources: top source Organic Search 48.47% of desktop visits last month; Direct 2nd; Referrals 3rd. Most underutilized channel: Affiliate.
+Marketing Channels Distribution: Organic Search 48.47%; Direct (2nd, доля скрыта); Referrals (3rd, доля скрыта). "Only showing top 3 marketing channels. Start free trial to see the full breakdown."
+(Social, Paid, Mail, Display - в бесплатном доступе доли не показаны)
+
+Top Keywords (Desktop, worldwide): Organic 100% / Paid 0%. plantuml ($1.24); plant uml ($1.46); plantuml online ($1.39); plantuml editor ($1.22); planuml ($0.53); 861 Others. Total Keywords 866.
+
+Referral Web Traffic: category distribution - Programming and Developer Software 28.09%; Video Games Consoles and Accessories 10.29%; Email 3.78%; Computers Electronics and Technology - Other 1.8%; Air Travel 1.18%; Other 54.86%.
+Top Referrals: (3 скрыты, "Start a trial") 10.29%, 8.78%, 8.17%; max.ru 3.78%; infostart.ru 3.61%; vinfast.vn 1.59%; 15 Others 63.78%. Referring Websites: 21
+
+Display Advertising: Publishers 1; Ad Networks 1 (детали скрыты)
+Social Media Traffic: most from Youtube, then Facebook and Reddit (Desktop). Social Networks 7. Distribution: Youtube 47.89%; Facebook 22.34%; Reddit 11.86%; X-twitter 6.21%; Weibo.com 5.89%; Others 5.81%
+(это распределение ВНУТРИ соцтрафика, а не доля соц. в общем трафике)
+
+Outgoing links: 11 websites. Top (скрыты) 33.15%, 27.78%, 12.24%; plantuml.biz 11.03%; gnu.org 5.54%; mozilla.org 4.25%; 5 Others 6.01%.
+Technology Stack: 294 technologies, 19 industries. Advertising (197) Google Adsense; Conversion & Analytics (31) Google Analytics; Marketing (11) Google Marketing Platform; CMS (7) Jekyll.
+
+==== ФАКТЫ ДЛЯ ЖУРНАЛА ====
+Visits (Aug 2026): 507K; изменение к июлю: -27.81% => июль ~702K (расчётная оценка, не показано на странице). Значения июнь/июль на бесплатной странице текстом не выводятся (только на графике при наведении).

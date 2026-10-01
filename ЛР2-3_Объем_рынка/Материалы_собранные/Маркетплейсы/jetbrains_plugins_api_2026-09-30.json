@@ -1,0 +1,288 @@
+{
+ "7017": {
+  "detail": {
+   "id": 7017,
+   "name": "plantuml4idea",
+   "downloads": 5014362,
+   "pricingModel": "FREE",
+   "cdate": 1790181212000,
+   "link": "/plugin/7017-plantuml4idea",
+   "purchaseInfo": null
+  },
+  "rating": {
+   "votes": {
+    "5": 85,
+    "4": 7,
+    "1": 5,
+    "3": 5
+   },
+   "meanVotes": 2,
+   "meanRating": 4.06417
+  }
+ },
+ "20146": {
+  "detail": {
+   "id": 20146,
+   "name": "Mermaid",
+   "downloads": 1662818,
+   "pricingModel": "FREE",
+   "cdate": 1790327862000,
+   "link": "/plugin/20146-mermaid",
+   "purchaseInfo": null
+  },
+  "rating": {
+   "votes": {
+    "5": 14,
+    "3": 15,
+    "4": 9,
+    "2": 12,
+    "1": 15
+   },
+   "meanVotes": 2,
+   "meanRating": 4.06417
+  }
+ },
+ "15635": {
+  "detail": {
+   "id": 15635,
+   "name": "Diagrams.net Integration",
+   "downloads": 485573,
+   "pricingModel": "FREE",
+   "cdate": 1787294162000,
+   "link": "/plugin/15635-diagrams-net-integration",
+   "purchaseInfo": null
+  },
+  "rating": {
+   "votes": {
+    "5": 29,
+    "4": 9,
+    "1": 6,
+    "2": 2,
+    "3": 2
+   },
+   "meanVotes": 2,
+   "meanRating": 4.06417
+  }
+ },
+ "23043": {
+  "detail": {
+   "id": 23043,
+   "name": "Mermaid Chart",
+   "downloads": 50284,
+   "pricingModel": "FREE",
+   "cdate": 1732013708000,
+   "link": "/plugin/23043-mermaid-chart",
+   "purchaseInfo": null
+  },
+  "rating": {
+   "votes": {
+    "5": 2,
+    "1": 6,
+    "3": 2
+   },
+   "meanVotes": 2,
+   "meanRating": 4.06417
+  }
+ },
+ "30883": {
+  "detail": {
+   "id": 30883,
+   "name": "Mermaid Studio Core",
+   "downloads": 22806,
+   "pricingModel": "FREEMIUM",
+   "cdate": 1790659649000,
+   "link": "/plugin/30883-mermaid-studio-core",
+   "purchaseInfo": {
+    "productCode": "PMMDSTUDIOCORE",
+    "buyUrl": null,
+    "purchaseTerms": null,
+    "optional": true,
+    "trialPeriod": 30
+   }
+  },
+  "rating": {
+   "votes": {
+    "5": 1
+   },
+   "meanVotes": 2,
+   "meanRating": 4.06417
+  }
+ },
+ "29870": {
+  "detail": {
+   "id": 29870,
+   "name": "Mermaid Studio",
+   "downloads": 14186,
+   "pricingModel": "PAID",
+   "cdate": 1790659652000,
+   "link": "/plugin/29870-mermaid-studio",
+   "purchaseInfo": {
+    "productCode": "PMERMAIDSTUDIO",
+    "buyUrl": null,
+    "purchaseTerms": null,
+    "optional": false,
+    "trialPeriod": 30
+   }
+  },
+  "rating": {
+   "votes": {
+    "4": 1,
+    "5": 1
+   },
+   "meanVotes": 2,
+   "meanRating": 4.06417
+  }
+ },
+ "12437": {
+  "detail": {
+   "id": 12437,
+   "name": "ZenUML Support",
+   "downloads": 41521,
+   "pricingModel": "FREEMIUM",
+   "cdate": 1748588427000,
+   "link": "/plugin/12437-zenuml-support",
+   "purchaseInfo": {
+    "productCode": "PZENUML",
+    "buyUrl": null,
+    "purchaseTerms": null,
+    "optional": true,
+    "trialPeriod": 30
+   }
+  },
+  "rating": {
+   "votes": {
+    "5": 7,
+    "3": 1,
+    "4": 1
+   },
+   "meanVotes": 2,
+   "meanRating": 4.06417
+  }
+ },
+ "23594": {
+  "detail": {
+   "id": 23594,
+   "name": "ERD Editor",
+   "downloads": 26519,
+   "pricingModel": "FREE",
+   "cdate": 1790604634000,
+   "link": "/plugin/23594-erd-editor",
+   "purchaseInfo": null
+  },
+  "rating": {
+   "votes": {
+    "5": 2,
+    "2": 1
+   },
+   "meanVotes": 2,
+   "meanRating": 4.06417
+  }
+ },
+ "15222": {
+  "detail": {
+   "id": 15222,
+   "name": "Activiti BPMN visualizer",
+   "downloads": 192572,
+   "pricingModel": "FREE",
+   "cdate": 1790148847000,
+   "link": "/plugin/15222-activiti-bpmn-visualizer",
+   "purchaseInfo": null
+  },
+  "rating": {
+   "votes": {
+    "4": 3,
+    "5": 6,
+    "3": 1,
+    "1": 1
+   },
+   "meanVotes": 2,
+   "meanRating": 4.06417
+  }
+ },
+ "14318": {
+  "detail": {
+   "id": 14318,
+   "name": "Flowable BPMN visualizer",
+   "downloads": 110007,
+   "pricingModel": "FREE",
+   "cdate": 1790148838000,
+   "link": "/plugin/14318-flowable-bpmn-visualizer",
+   "purchaseInfo": null
+  },
+  "rating": {
+   "votes": {
+    "5": 1,
+    "4": 1
+   },
+   "meanVotes": 2,
+   "meanRating": 4.06417
+  }
+ },
+ "17096": {
+  "detail": {
+   "id": 17096,
+   "name": "Excalidraw Integration",
+   "downloads": 47327,
+   "pricingModel": "FREE",
+   "cdate": 1731417765000,
+   "link": "/plugin/17096-excalidraw-integration",
+   "purchaseInfo": null
+  },
+  "rating": {
+   "votes": {
+    "4": 4,
+    "5": 6,
+    "3": 4,
+    "1": 2
+   },
+   "meanVotes": 2,
+   "meanRating": 4.06417
+  }
+ },
+ "21952": {
+  "detail": {
+   "id": 21952,
+   "name": "BPMN Viewer - Free and OpenSource",
+   "downloads": 34303,
+   "pricingModel": "FREE",
+   "cdate": 1781341597000,
+   "link": "/plugin/21952-bpmn-viewer--free-and-opensource",
+   "purchaseInfo": null
+  },
+  "rating": {
+   "votes": {
+    "5": 1
+   },
+   "meanVotes": 2,
+   "meanRating": 4.06417
+  }
+ },
+ "8286": {
+  "detail": {
+   "id": 8286,
+   "name": "SequenceDiagram Core",
+   "downloads": 1565628,
+   "pricingModel": "FREEMIUM",
+   "cdate": 1786704344000,
+   "link": "/plugin/8286-sequencediagram-core",
+   "purchaseInfo": {
+    "productCode": "PSEQUENCEDIAGRA",
+    "buyUrl": null,
+    "purchaseTerms": null,
+    "optional": true,
+    "trialPeriod": 7
+   }
+  },
+  "rating": {
+   "votes": {
+    "5": 41,
+    "3": 4,
+    "4": 6,
+    "1": 4,
+    "2": 2
+   },
+   "meanVotes": 2,
+   "meanRating": 4.06417
+  }
+ }
+}

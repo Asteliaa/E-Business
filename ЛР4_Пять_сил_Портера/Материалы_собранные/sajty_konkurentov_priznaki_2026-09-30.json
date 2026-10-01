@@ -1,0 +1,242 @@
+{
+ "fetched": "2026-09-30 20:34",
+ "method": "curl главной страницы, счётчик совпадений шаблонов в HTML",
+ "data": {
+  "plantuml.com": {
+   "http": "200",
+   "len": 89633,
+   "analytics": 6,
+   "crm_mkt": 0,
+   "login": 0,
+   "appstore": 0,
+   "pricing": 0,
+   "careers": 0,
+   "integrations": 0,
+   "github": 4
+  },
+  "mermaid.js.org": {
+   "http": "200",
+   "len": 184175,
+   "analytics": 1,
+   "crm_mkt": 0,
+   "login": 0,
+   "appstore": 0,
+   "pricing": 0,
+   "careers": 0,
+   "integrations": 2,
+   "github": 385
+  },
+  "mermaidchart.com": {
+   "http": "200",
+   "len": 301354,
+   "analytics": 0,
+   "crm_mkt": 0,
+   "login": 4,
+   "appstore": 0,
+   "pricing": 1,
+   "careers": 0,
+   "integrations": 5,
+   "github": 68
+  },
+  "d2lang.com": {
+   "http": "200",
+   "len": 572429,
+   "analytics": 0,
+   "crm_mkt": 0,
+   "login": 0,
+   "appstore": 0,
+   "pricing": 0,
+   "careers": 0,
+   "integrations": 0,
+   "github": 4
+  },
+  "kroki.io": {
+   "http": "200",
+   "len": 58312,
+   "analytics": 0,
+   "crm_mkt": 0,
+   "login": 0,
+   "appstore": 0,
+   "pricing": 0,
+   "careers": 0,
+   "integrations": 0,
+   "github": 28
+  },
+  "planttext.com": {
+   "http": "200",
+   "len": 89278,
+   "analytics": 2,
+   "crm_mkt": 0,
+   "login": 0,
+   "appstore": 0,
+   "pricing": 0,
+   "careers": 0,
+   "integrations": 1,
+   "github": 0
+  },
+  "staruml.io": {
+   "http": "200",
+   "len": 65677,
+   "analytics": 4,
+   "crm_mkt": 0,
+   "login": 0,
+   "appstore": 0,
+   "pricing": 2,
+   "careers": 0,
+   "integrations": 0,
+   "github": 2
+  },
+  "visual-paradigm.com": {
+   "http": "200",
+   "len": 292811,
+   "analytics": 4,
+   "crm_mkt": 0,
+   "login": 2,
+   "appstore": 0,
+   "pricing": 0,
+   "careers": 0,
+   "integrations": 5,
+   "github": 0
+  },
+  "sparxsystems.com": {
+   "http": "403",
+   "len": 5578
+  },
+  "bpmn.io": {
+   "http": "200",
+   "len": 16544,
+   "analytics": 0,
+   "crm_mkt": 0,
+   "login": 2,
+   "appstore": 0,
+   "pricing": 0,
+   "careers": 1,
+   "integrations": 0,
+   "github": 2
+  },
+  "camunda.com": {
+   "http": "200",
+   "len": 112618,
+   "analytics": 6,
+   "crm_mkt": 2,
+   "login": 0,
+   "appstore": 0,
+   "pricing": 3,
+   "careers": 1,
+   "integrations": 0,
+   "github": 6
+  },
+  "stormbpmn.com": {
+   "http": "200",
+   "len": 452185,
+   "analytics": 0,
+   "crm_mkt": 0,
+   "login": 3,
+   "appstore": 0,
+   "pricing": 4,
+   "careers": 0,
+   "integrations": 2,
+   "github": 0
+  },
+  "app.diagrams.net": {
+   "http": "200",
+   "len": 2759,
+   "analytics": 0,
+   "crm_mkt": 0,
+   "login": 1,
+   "appstore": 0,
+   "pricing": 0,
+   "careers": 0,
+   "integrations": 0,
+   "github": 0
+  },
+  "www.drawio.com": {
+   "http": "200",
+   "len": 21894,
+   "analytics": 0,
+   "crm_mkt": 0,
+   "login": 3,
+   "appstore": 0,
+   "pricing": 0,
+   "careers": 0,
+   "integrations": 14,
+   "github": 5
+  },
+  "lucidchart.com": {
+   "http": "403",
+   "len": 178
+  },
+  "creately.com": {
+   "http": "200",
+   "len": 66119,
+   "analytics": 10,
+   "crm_mkt": 0,
+   "login": 1,
+   "appstore": 0,
+   "pricing": 0,
+   "careers": 1,
+   "integrations": 3,
+   "github": 0
+  },
+  "miro.com": {
+   "http": "200",
+   "len": 1057581,
+   "analytics": 7,
+   "crm_mkt": 0,
+   "login": 3,
+   "appstore": 6,
+   "pricing": 8,
+   "careers": 3,
+   "integrations": 7,
+   "github": 0
+  },
+  "excalidraw.com": {
+   "http": "200",
+   "len": 6856,
+   "analytics": 0,
+   "crm_mkt": 0,
+   "login": 0,
+   "appstore": 0,
+   "pricing": 0,
+   "careers": 0,
+   "integrations": 0,
+   "github": 0
+  },
+  "dbdiagram.io": {
+   "http": "200",
+   "len": 4340,
+   "analytics": 1,
+   "crm_mkt": 0,
+   "login": 0,
+   "appstore": 0,
+   "pricing": 0,
+   "careers": 0,
+   "integrations": 0,
+   "github": 0
+  },
+  "drawsql.app": {
+   "http": "200",
+   "len": 157835,
+   "analytics": 4,
+   "crm_mkt": 0,
+   "login": 2,
+   "appstore": 0,
+   "pricing": 3,
+   "careers": 0,
+   "integrations": 0,
+   "github": 0
+  },
+  "eraser.io": {
+   "http": "200",
+   "len": 173943,
+   "analytics": 2,
+   "crm_mkt": 1,
+   "login": 6,
+   "appstore": 0,
+   "pricing": 2,
+   "careers": 0,
+   "integrations": 6,
+   "github": 1
+  }
+ }
+}

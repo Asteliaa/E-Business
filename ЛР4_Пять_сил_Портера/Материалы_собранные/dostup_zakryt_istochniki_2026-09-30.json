@@ -1,0 +1,10 @@
+{"fetched":"2026-09-30","note":"Источники, по которым доступ закрыт; обход не выполнялся.","data":{
+"similarweb.com/website/<домен>":"HTTP 403 (CloudFront, 'Request blocked') для plantuml.com и miro.com; 3 обращения, скриншот Скриншоты/similarweb_plantuml.com_otkaz_dostupa_403_2026-09-30.jpg",
+"yandex.by/search (выдача по ядру)":"страница проверки (капча showcaptchafast) - подсчёт топ-10 не выполнялся",
+"crunchbase.com/organization/miro":"проверка Cloudflare ('Just a moment'), данные не получены",
+"linkedin.com/company/mirohq":"перенаправление на страницу входа (authwall), данные не получены",
+"capterra.com":"переход из встроенного браузера отклонён, данные не получены",
+"g2.com":"карточки Miro, Lucid (Lucidchart), Mermaid загрузились; адреса-предположения для draw.io, Visual Paradigm, Creately, PlantUML, Eraser, Camunda, Enterprise Architect, Excalidraw, dbdiagram не дали рейтинга за 2-3 с ожидания; поиск G2 не вернул результатов",
+"ahrefs.com/traffic-checker":"форма не вернула результат без дополнительной проверки (не обходилось)",
+"semrush.com/website/<домен>/traffic-by-country-and-device":"раздел закрыт (нужна регистрация)",
+"trustpilot.com (программные запросы)":"HTTP 403 на автоматические запросы; использован только просмотр страниц в браузере"}}

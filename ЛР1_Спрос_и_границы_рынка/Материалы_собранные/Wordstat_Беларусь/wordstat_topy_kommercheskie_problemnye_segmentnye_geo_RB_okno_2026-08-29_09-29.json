@@ -1,0 +1,291 @@
+{
+ "source": "wordstat.yandex.ru, Топы запросов (getTable), Беларусь (149), все устройства, окно в заголовке страницы: 29.08.2026-29.09.2026 (значения сняты при окнах 29.08-27.09 и 29.08-29.09), дата снятия 2026-09-30",
+ "note": "0 = Вордстат не показывает запросов (Нет подходящих запросов)",
+ "queries": [
+  {
+   "query": "uml онлайн бесплатно",
+   "total": 0,
+   "rows": ""
+  },
+  {
+   "query": "bpmn редактор цена",
+   "total": 0,
+   "rows": ""
+  },
+  {
+   "query": "uml программа купить",
+   "total": 0,
+   "rows": ""
+  },
+  {
+   "query": "нейросеть для диаграмм цена",
+   "total": 0,
+   "rows": ""
+  },
+  {
+   "query": "visual paradigm цена",
+   "total": 0,
+   "rows": ""
+  },
+  {
+   "query": "как нарисовать uml диаграмму",
+   "total": 0,
+   "rows": ""
+  },
+  {
+   "query": "как построить bpmn диаграмму",
+   "total": 0,
+   "rows": ""
+  },
+  {
+   "query": "ошибки в диаграмме uml",
+   "total": 0,
+   "rows": ""
+  },
+  {
+   "query": "как сделать диаграмму для курсовой",
+   "total": 0,
+   "rows": ""
+  },
+  {
+   "query": "uml для студентов",
+   "total": 0,
+   "rows": ""
+  },
+  {
+   "query": "bpmn для аналитика",
+   "total": 0,
+   "rows": ""
+  },
+  {
+   "query": "uml для архитектора",
+   "total": 0,
+   "rows": ""
+  },
+  {
+   "query": "uml минск",
+   "total": 3,
+   "rows": ""
+  },
+  {
+   "query": "bpmn минск",
+   "total": 4,
+   "rows": ""
+  },
+  {
+   "query": "курсы uml минск",
+   "total": 0,
+   "rows": ""
+  },
+  {
+   "query": "uml курс",
+   "total": 0,
+   "rows": ""
+  },
+  {
+   "query": "bpmn обучение",
+   "total": 0,
+   "rows": ""
+  },
+  {
+   "query": "creately",
+   "total": 3,
+   "rows": "creately 3; creately онлайн 1"
+  },
+  {
+   "query": "bpmn курсы",
+   "total": 17,
+   "rows": "bpmn курсы 17; курсы по bpmn 2.0 6; курсы bpmn 2.0 с сертификатом 1"
+  },
+  {
+   "query": "uml купить",
+   "total": 5,
+   "rows": "uml купить 5"
+  },
+  {
+   "query": "bpmn бесплатно",
+   "total": 16,
+   "rows": "bpmn бесплатно 16; нотация bpmn бесплатно 5; bpmn 2.0 бесплатно 4; bpmn онлайн бесплатно 3; bpmn 2.0 скачать бесплатно 1"
+  },
+  {
+   "query": "uml бесплатно",
+   "total": 4,
+   "rows": "бесплатный uml 4"
+  },
+  {
+   "query": "uml лабораторная",
+   "total": 51,
+   "rows": "лабораторные работы java uml case рб 12 (в списке одна строка, итог включает словоформы)"
+  },
+  {
+   "query": "uml",
+   "total": 652,
+   "rows": "uml 652; uml диаграммы 273; plant uml 73; uml классы 56; uml проектирование 42"
+  },
+  {
+   "query": "bpmn",
+   "total": 473,
+   "rows": "bpmn 473; bpmn 2.0 81; bpmn диаграмма 56; нотация bpmn 46; bpmn io 37"
+  },
+  {
+   "query": "plantuml",
+   "total": 200,
+   "rows": "plantuml 200; plantuml editor 17; plantuml online 14; plantuml online editor 11; plantuml com 7"
+  },
+  {
+   "query": "idef0",
+   "total": 101,
+   "rows": "idef0 101; idef0 диаграмма 30; декомпозиция idef0 15; idef0 контекстная 14; контекстная диаграмма idef0 12"
+  },
+  {
+   "query": "dfd диаграмма",
+   "total": 28,
+   "rows": "dfd диаграмма 28"
+  },
+  {
+   "query": "erd диаграмма",
+   "total": 25,
+   "rows": "erd диаграмма 25; диаграмма сущность связь erd 3; erd диаграмма онлайн 3"
+  },
+  {
+   "query": "сеть петри",
+   "total": 16,
+   "rows": "сети петри 16; анализ сетей петри 2; моделирование сетями петри 2"
+  },
+  {
+   "query": "нейросеть схема",
+   "total": 81,
+   "rows": "нейросеть для схем 35; нейросеть схема бесплатно 21; нейросеть для создания схем 17; нейросеть сделай схему 11; схема по тексту нейросеть 8"
+  },
+  {
+   "query": "нейросеть диаграмма",
+   "total": 28,
+   "rows": "диаграммы онлайн нейросеть 12; нейросеть для диаграмм 8; создание диаграмм нейросеть 8; диаграммы с помощью нейросети 7; генерация диаграмм онлайн с помощью нейросети 6"
+  },
+  {
+   "query": "miro",
+   "total": 1713,
+   "rows": "miro 1713; miro доска 258"
+  },
+  {
+   "query": "visio",
+   "total": 1507,
+   "rows": "visio 1507; visio скачать 565; microsoft visio 394"
+  },
+  {
+   "query": "draw io",
+   "total": 1142,
+   "rows": "draw io 1142; draw io скачать 67"
+  },
+  {
+   "query": "bpmn купить",
+   "total": 0,
+   "rows": ""
+  },
+  {
+   "query": "uml цена",
+   "total": 0,
+   "rows": ""
+  },
+  {
+   "query": "bpmn цена",
+   "total": 0,
+   "rows": ""
+  },
+  {
+   "query": "visio цена",
+   "total": 0,
+   "rows": ""
+  },
+  {
+   "query": "miro цена",
+   "total": 0,
+   "rows": ""
+  },
+  {
+   "query": "uml редактор",
+   "total": 3,
+   "rows": "uml онлайн редактор 3; uml редактор 3; uml диаграммы редактор 2; редактор uml диаграмм онлайн 2"
+  },
+  {
+   "query": "bpmn редактор",
+   "total": 1,
+   "rows": "bpmn онлайн редактор 1; bpmn редактор 1"
+  },
+  {
+   "query": "uml программа",
+   "total": 6,
+   "rows": "программы для uml 6"
+  },
+  {
+   "query": "uml скачать",
+   "total": 4,
+   "rows": "uml скачать 4; plant uml скачать 1; star uml скачать 1"
+  },
+  {
+   "query": "uml курсовая",
+   "total": 0,
+   "rows": ""
+  },
+  {
+   "query": "bpmn курсовая",
+   "total": 1,
+   "rows": ""
+  },
+  {
+   "query": "диаграмма для курсовой",
+   "total": 1,
+   "rows": "диаграммы для курсовой 1"
+  },
+  {
+   "query": "курсовая uml диаграммы",
+   "total": 0,
+   "rows": ""
+  },
+  {
+   "query": "как нарисовать uml",
+   "total": 0,
+   "rows": ""
+  },
+  {
+   "query": "как построить bpmn",
+   "total": 0,
+   "rows": ""
+  },
+  {
+   "query": "uml диаграмма студент",
+   "total": 0,
+   "rows": ""
+  },
+  {
+   "query": "uml онлайн",
+   "total": 37,
+   "rows": "uml онлайн 37; uml диаграммы онлайн 19; plant uml онлайн 8; uml онлайн редактор 3"
+  },
+  {
+   "query": "uml курсы",
+   "total": 0,
+   "rows": ""
+  },
+  {
+   "query": "uml обучение",
+   "total": 0,
+   "rows": ""
+  },
+  {
+   "query": "цена uml",
+   "total": 0,
+   "rows": ""
+  },
+  {
+   "query": "diagram as code",
+   "total": 0,
+   "rows": ""
+  },
+  {
+   "query": "курсы uml",
+   "total": 0,
+   "rows": ""
+  }
+ ]
+}
