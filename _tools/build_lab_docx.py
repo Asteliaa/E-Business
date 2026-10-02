@@ -18,6 +18,7 @@ import tempfile
 from pathlib import Path
 
 from docx import Document
+import stp_polish
 from docx.enum.table import WD_TABLE_ALIGNMENT
 from docx.enum.text import WD_ALIGN_PARAGRAPH, WD_BREAK, WD_LINE_SPACING
 from docx.oxml import OxmlElement
@@ -327,6 +328,7 @@ def format_body(doc):
         has_img = bool(p._p.findall(".//" + qn("w:drawing")))
         if has_img:
             set_par(p, align=WD_ALIGN_PARAGRAPH.CENTER, indent=Mm(0), before=12, keep_next=True)
+            p.paragraph_format.line_spacing_rule = WD_LINE_SPACING.SINGLE
         elif CAPTION_FIG.match(text):
             set_par(p, align=WD_ALIGN_PARAGRAPH.CENTER, indent=Mm(0), after=12)
         elif CAPTION_TAB.match(text):
@@ -455,6 +457,7 @@ def build(md_text: str, resource: Path, out: Path, lab_no: str, topic: str, kind
     page_numbers(doc)
     format_body(doc)
     title_page(doc, doc.paragraphs[0], lab_no, topic, kind)
+    stp_polish.polish(doc)
     set_core(doc)
     doc.save(str(out))
     if update_fields_with_word(out):
