@@ -27,7 +27,8 @@ for lab in LABS:
     row.append(f"рисунков {len(figs)}" + ("" if figs == list(range(1, len(figs) + 1)) else " (НУМЕРАЦИЯ!)") + (f", нет файлов: {missing}" if missing else ""))
     row.append("🔲 %d" % t.count("🔲"))
     if docx:
-        newer = os.path.getmtime(docx[0]) >= os.path.getmtime(md)
+        # в CI даты файлов после checkout одинаковы, сравнение по времени не применяется
+        newer = bool(os.environ.get("CI")) or os.path.getmtime(docx[0]) >= os.path.getmtime(md)
         row.append("docx актуален" if newer else "docx УСТАРЕЛ")
     else:
         row.append("docx ОТСУТСТВУЕТ")

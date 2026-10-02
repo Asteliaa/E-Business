@@ -1,0 +1,44 @@
+name: Release
+
+# При создании тега vX.Y публикуется GitHub Release с готовыми docx
+on:
+  push:
+    tags: ["v*"]
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    env:
+      PYTHONIOENCODING: utf-8
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r .github/requirements-ci.txt
+
+      - name: Проверка перед публикацией
+        run: |
+          python _tools/verify_deep.py | tee verify_deep.log
+          grep -q "всего замечаний: 0" verify_deep.log
+          python _tools/check_stp.py | tee check_stp.log
+          if grep -q "FAIL" check_stp.log; then exit 1; fi
+
+      - name: Сборка пакета
+        run: |
+          mkdir -p dist
+          cp ЛР*/ОТЧЕТ_*.docx dist/
+          cp Финальный_отчет/ОТЧЕТ_*.docx dist/
+          (cd dist && zip -q ../reports.zip *.docx)
+
+      - uses: softprops/action-gh-release@v2
+        with:
+          files: |
+            dist/*.docx
+            reports.zip
+          generate_release_notes: true

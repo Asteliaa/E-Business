@@ -1,0 +1,66 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    name: Проверка отчётов ЛР1-ЛР7
+    runs-on: ubuntu-latest
+    env:
+      PYTHONIOENCODING: utf-8
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: .github/requirements-ci.txt
+
+      - name: Установка зависимостей
+        run: pip install -r .github/requirements-ci.txt
+
+      - name: Структура, нумерация, автор docx, ошибки Excel
+        run: |
+          python _tools/verify_labs.py | tee verify_labs.log
+          if grep -E "НУМЕРАЦИЯ|ОТСУТСТВУЕТ|УСТАРЕЛ" verify_labs.log; then echo "::error::нарушена структура отчётов"; exit 1; fi
+          if grep -E "автор docx: " verify_labs.log | grep -v "автор docx: OK"; then echo "::error::в docx указан неверный автор"; exit 1; fi
+
+      - name: Ссылки на таблицы и рисунки, ключевые числа, поля docx
+        run: |
+          python _tools/verify_deep.py | tee verify_deep.log
+          grep -q "всего замечаний: 0" verify_deep.log
+
+      - name: Оформление по СТП БГУИР 01-2024
+        run: |
+          python _tools/check_stp.py | tee check_stp.log
+          if grep -q "FAIL" check_stp.log; then echo "::error::оформление не соответствует СТП"; exit 1; fi
+
+      - name: В отчётах не должно остаться пометок о недостающих данных
+        run: |
+          if grep -rIl --include=ОТЧЕТ.md -e "🔲" -e "ДОСНЯТЬ" ЛР1_* ЛР2-3_* ЛР4_* ЛР5_* ЛР6_* ЛР7_*; then echo "::error::в ОТЧЕТ.md остались пометки"; exit 1; fi
+
+      - name: Сборка пакета документов
+        run: |
+          mkdir -p dist
+          cp ЛР*/ОТЧЕТ_*.docx dist/
+          cp Финальный_отчет/ОТЧЕТ_*.docx dist/
+          cp ЛР7_Итоговый_отчет/РЕЗЮМЕ_ПРОЕКТА_*.docx dist/ 2>/dev/null || true
+          (cd dist && zip -q ../reports.zip *.docx)
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: reports-docx
+          path: |
+            dist/*.docx
+            reports.zip
+          if-no-files-found: error
+          retention-days: 30
